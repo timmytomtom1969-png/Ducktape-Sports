@@ -1,0 +1,33 @@
+name: Refresh Grandpa Sports News
+
+on:
+  schedule:
+    # Runs everyday at 11:00 AM UTC (Which is 6:00 AM Detroit Eastern Time)
+    - cron: '0 11 * * *'
+  workflow_dispatch: # This adds a manual "Run" button to test it instantly
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install feedparser
+
+    - name: Run Scraper
+      run: python scraper.py
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "GitHub Actions Bot"
+        git config --global user.email "actions@github.com"
+        git add news.json
+        git commit -m "Automated update of sports news" || exit 0
+        git push
