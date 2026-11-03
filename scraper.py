@@ -28,15 +28,13 @@ TEAMS = {
         "football": False,
         "feeds": [
             {"name": "Detroit Bad Boys", "urls": ["https://www.detroitbadboys.com/rss/current.xml"]},
-            {"name": "Palace of Pistons", "urls": ["https://palaceofpistons.com/feed/"]},
-            {"name": "Detroit Jock City", "urls": ["https://detroitjockcity.com/detroit-pistons/feed/"]},
         ],
     },
     "wings": {
         "espn": ("hockey", "nhl", "5"),
         "football": False,
         "feeds": [
-            {"name": "Octopus Thrower", "urls": [
+            {"name": "Octopus Thrower", "fulltext": True, "urls": [
                 "https://octopusthrower.com/feed/",
                 "https://octopusthrower.com/rss/",
                 "https://octopusthrower.com/?feed=rss2",
@@ -63,7 +61,6 @@ TEAMS = {
             {"name": "Maize n Brew", "urls": ["https://www.maizenbrew.com/rss/index.xml"]},
             {"name": "Touch the Banner", "urls": ["https://touch-the-banner.com/feed/"]},
             {"name": "MGoBlog", "urls": ["https://mgoblog.com/category/topics/football/feed"]},
-            {"name": "Michigan Wolverines On SI", "urls": ["https://www.si.com/college/michigan/.rss/full/"], "must": "football"},
         ],
     },
     "msu": {
@@ -71,8 +68,6 @@ TEAMS = {
         "football": True,
         "feeds": [
             {"name": "The Only Colors", "urls": ["https://www.theonlycolors.com/rss/index.xml"]},
-            {"name": "Spartan Nation", "urls": ["https://www.si.com/college/michiganstate/.rss/full/"], "must": "football"},
-            {"name": "Spartans Wire", "urls": ["https://spartanswire.usatoday.com/feed/"], "must": "football"},
         ],
     },
     "tigers": {
@@ -81,7 +76,6 @@ TEAMS = {
         "feeds": [
             {"name": "Bless You Boys", "urls": ["https://www.blessyouboys.com/rss/current.xml"]},
             {"name": "Motor City Bengals", "urls": ["https://motorcitybengals.com/feed/"]},
-            {"name": "Detroit Jock City", "urls": ["https://detroitjockcity.com/detroit-tigers/feed/"]},
         ],
     },
 }
@@ -114,6 +108,22 @@ def entry_body(entry):
     return clean_html(entry.get("summary", entry.get("description", "")))
 
 
+def fetch_article(url):
+    # Some feeds send only a short preview. Open the story page and keep its paragraphs.
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": feedparser.USER_AGENT})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            page = r.read().decode("utf-8", errors="replace")
+    except Exception:
+        return ""
+    m = re.search(r"(?is)<article\b.*?</article>", page)
+    part = m.group(0) if m else page
+    part = re.sub(r"(?is)<(script|style|nav|footer|aside|form|figure)\b.*?</\1>", "", part)
+    paras = [clean_html(p) for p in re.findall(r"(?is)<p\b[^>]*>(.*?)</p>", part)]
+    paras = [p for p in paras if len(p) > 40]
+    return "\n\n".join(paras)
+
+
 def fetch_feed(feed, notes):
     last = "no address"
     for url in feed["urls"]:
@@ -128,6 +138,8 @@ def fetch_feed(feed, notes):
             for e in parsed.entries:
                 title = clean_html(e.get("title", "")).replace("\n", " ").strip()
                 body = entry_body(e)
+                if feed.get("fulltext") and len(body) < MIN_TEXT and e.get("link"):
+                    body = fetch_article(e["link"]) or body
                 if not title or len(body) < MIN_TEXT:
                     continue
                 if feed.get("must") and feed["must"].lower() not in (title + " " + body).lower():
