@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T03:28:26.779403+00:00",
+  "updated": "2026-11-04T03:30:17.544618+00:00",
   "teams": {
     "pistons": {
       "record": "6-1",
@@ -38,7 +38,28 @@
           "value": "312"
         }
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "name": "Cade Cunningham",
+          "line": "23.7 Points Per Game"
+        },
+        {
+          "name": "Cade Cunningham",
+          "line": "7.1 Assists Per Game"
+        },
+        {
+          "name": "Ausar Thompson",
+          "line": "7.2 Rebounds Per Game"
+        },
+        {
+          "name": "Ausar Thompson",
+          "line": "5.8 Defensive Rebounds Per Game"
+        },
+        {
+          "name": "Paul Reed",
+          "line": "2.4 Offensive Rebounds Per Game"
+        }
+      ],
       "last_game": {
         "date": "2026-11-03T00:30Z",
         "opponent": "Hornets",
@@ -301,7 +322,28 @@
           "value": "248"
         }
       ],
-      "leaders": [],
+      "leaders": [
+        {
+          "name": "Jared Goff",
+          "line": "168/248, 1964 YDS, 15 TD, 1 INT Passing Leader"
+        },
+        {
+          "name": "Jahmyr Gibbs",
+          "line": "157 CAR, 773 YDS, 8 TD Rushing Leader"
+        },
+        {
+          "name": "Amon-Ra St. Brown",
+          "line": "53 REC, 571 YDS, 5 TD Receiving Leader"
+        },
+        {
+          "name": "Jared Goff",
+          "line": "1,964 Passing Yards"
+        },
+        {
+          "name": "Jahmyr Gibbs",
+          "line": "773 Rushing Yards"
+        }
+      ],
       "last_game": {
         "date": "2026-11-01T18:00Z",
         "opponent": "Vikings",
@@ -666,9 +708,9 @@
     }
   },
   "report": {
-    "pistons": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  Opponent: ok.  Opponent stats: ok",
+    "pistons": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  ESPN leaders: ok.  Opponent: ok.  Opponent stats: ok",
     "wings": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  NHL leaders: ok.  Opponent: ok.  Opponent stats: ok",
-    "lions": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  Opponent: ok.  Opponent stats: ok",
+    "lions": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  ESPN leaders: ok.  Opponent: ok.  Opponent stats: ok",
     "michigan": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  CFBD stats: ok.  CFBD matchup: ok.  Opponent: ok.  Opponent stats: ok",
     "msu": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  CFBD stats: ok.  CFBD matchup: ok.  Opponent: ok.  Opponent stats: ok",
     "tigers": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  MLB leaders: ok"
