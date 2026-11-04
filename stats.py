@@ -130,6 +130,41 @@ def cfb_matchup(team, other):
     return {"team_wins": d.get("team1Wins"), "opp_wins": d.get("team2Wins"), "ties": d.get("ties")}
 
 
+def espn_leaders(t):
+    # Team leaders from ESPN's core data (works for the NBA and NFL where no other free source does).
+    year = datetime.now(timezone.utc).year
+    seasons = [year + 1, year] if t["league"] == "nba" else [year]
+    lg = t["league"]
+    last = None
+    for season in seasons:
+        url = "https://sports.core.api.espn.com/v2/sports/%s/leagues/%s/seasons/%d/types/2/teams/%s/leaders" % (
+            t["sport"], lg, season, t["id"])
+        try:
+            d = get(url)
+        except Exception as e:
+            last = e
+            continue
+        out = []
+        for cat in d.get("categories", [])[:5]:
+            lead = (cat.get("leaders") or [None])[0]
+            if not lead:
+                continue
+            ref = lead.get("athlete", {}).get("$ref", "").replace("http://", "https://")
+            name = ""
+            if ref:
+                try:
+                    name = get(ref).get("displayName", "")
+                except Exception:
+                    name = ""
+            if name:
+                out.append({"name": name, "line": "%s %s" % (lead.get("displayValue", ""), cat.get("displayName", cat.get("name", "")))})
+        if out:
+            return out
+    if last:
+        raise last
+    return []
+
+
 def build(key, t, report):
     out = {"record": "", "standing": "", "stats": [], "leaders": [], "last_game": None, "next_games": [], "matchup": {}}
     def step(name, fn):
@@ -153,6 +188,10 @@ def build(key, t, report):
         g = step("ESPN games", lambda: espn_games(base))
         if g:
             out["last_game"], out["next_games"] = g
+    if t["league"] in ("nba", "nfl"):
+        l = step("ESPN leaders", lambda: espn_leaders(t))
+        if l:
+            out["leaders"] = l
     if t.get("nhl"):
         l = step("NHL leaders", lambda: nhl_leaders(t["nhl"]))
         if l:
