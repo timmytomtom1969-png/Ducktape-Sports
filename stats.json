@@ -1,0 +1,676 @@
+{
+  "updated": "2026-11-04T02:33:17.025335+00:00",
+  "teams": {
+    "pistons": {
+      "record": "6-1",
+      "standing": "1st in Central Division",
+      "stats": [
+        {
+          "label": "Rebounds Per Game",
+          "value": "44.6"
+        },
+        {
+          "label": "Assist To Turnover Ratio",
+          "value": "1.8"
+        },
+        {
+          "label": "Fouls Per Game",
+          "value": "22.1"
+        },
+        {
+          "label": "Games Played",
+          "value": "7"
+        },
+        {
+          "label": "Games Started",
+          "value": "0"
+        },
+        {
+          "label": "Minutes",
+          "value": "0"
+        },
+        {
+          "label": "Minutes Per Game",
+          "value": "0.0"
+        },
+        {
+          "label": "Rebounds",
+          "value": "312"
+        }
+      ],
+      "leaders": [],
+      "last_game": {
+        "date": "2026-11-03T00:30Z",
+        "opponent": "Hornets",
+        "opponent_location": "Charlotte",
+        "opponent_id": "30",
+        "home": false,
+        "my_score": "124",
+        "opp_score": "91",
+        "won": true
+      },
+      "next_games": [
+        {
+          "date": "2026-11-05T00:00Z",
+          "opponent": "76ers",
+          "opponent_location": "Philadelphia",
+          "opponent_id": "20",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        },
+        {
+          "date": "2026-11-08T23:00Z",
+          "opponent": "Lakers",
+          "opponent_location": "Los Angeles",
+          "opponent_id": "13",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        },
+        {
+          "date": "2026-11-10T00:00Z",
+          "opponent": "Wizards",
+          "opponent_location": "Washington",
+          "opponent_id": "27",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        }
+      ],
+      "matchup": {
+        "opponent": {
+          "record": "7-1",
+          "standing": "1st in Atlantic Division",
+          "stats": [
+            {
+              "label": "Rebounds Per Game",
+              "value": "41.6"
+            },
+            {
+              "label": "Assist To Turnover Ratio",
+              "value": "2.1"
+            },
+            {
+              "label": "Fouls Per Game",
+              "value": "22.4"
+            },
+            {
+              "label": "Games Played",
+              "value": "8"
+            },
+            {
+              "label": "Games Started",
+              "value": "0"
+            },
+            {
+              "label": "Minutes",
+              "value": "0"
+            },
+            {
+              "label": "Minutes Per Game",
+              "value": "0.0"
+            },
+            {
+              "label": "Rebounds",
+              "value": "333"
+            }
+          ]
+        }
+      }
+    },
+    "wings": {
+      "record": "7-5",
+      "standing": "9th in Eastern Conference",
+      "stats": [
+        {
+          "label": "Games Played",
+          "value": "15"
+        },
+        {
+          "label": "Time On Ice",
+          "value": "5404:02"
+        },
+        {
+          "label": "Time On Ice Per Game",
+          "value": "360:16"
+        },
+        {
+          "label": "Plus/Minus Rating",
+          "value": "0"
+        },
+        {
+          "label": "Production",
+          "value": "0:00"
+        },
+        {
+          "label": "Shifts",
+          "value": "5777"
+        },
+        {
+          "label": "Losses",
+          "value": "5"
+        },
+        {
+          "label": "Wins",
+          "value": "7"
+        }
+      ],
+      "leaders": [
+        {
+          "name": "Alex DeBrincat",
+          "line": "16 pts (7G 9A)"
+        },
+        {
+          "name": "Viktor Arvidsson",
+          "line": "15 pts (8G 7A)"
+        },
+        {
+          "name": "Lucas Raymond",
+          "line": "15 pts (5G 10A)"
+        },
+        {
+          "name": "Emmitt Finnie",
+          "line": "11 pts (7G 4A)"
+        },
+        {
+          "name": "John Gibson",
+          "line": "0.860 save pct"
+        }
+      ],
+      "last_game": {
+        "date": "2026-11-03T00:00Z",
+        "opponent": "Panthers",
+        "opponent_location": "Florida",
+        "opponent_id": "26",
+        "home": false,
+        "my_score": "5",
+        "opp_score": "3",
+        "won": true
+      },
+      "next_games": [
+        {
+          "date": "2026-11-04T00:00Z",
+          "opponent": "Lightning",
+          "opponent_location": "Tampa Bay",
+          "opponent_id": "20",
+          "home": false,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        },
+        {
+          "date": "2026-11-06T00:00Z",
+          "opponent": "Golden Knights",
+          "opponent_location": "Vegas",
+          "opponent_id": "37",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        },
+        {
+          "date": "2026-11-08T02:00Z",
+          "opponent": "Avalanche",
+          "opponent_location": "Colorado",
+          "opponent_id": "17",
+          "home": false,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        }
+      ],
+      "matchup": {
+        "opponent": {
+          "record": "8-3",
+          "standing": "5th in Eastern Conference",
+          "stats": [
+            {
+              "label": "Games Played",
+              "value": "13"
+            },
+            {
+              "label": "Time On Ice",
+              "value": "4644:48"
+            },
+            {
+              "label": "Time On Ice Per Game",
+              "value": "357:17"
+            },
+            {
+              "label": "Plus/Minus Rating",
+              "value": "0"
+            },
+            {
+              "label": "Production",
+              "value": "0:00"
+            },
+            {
+              "label": "Shifts",
+              "value": "4820"
+            },
+            {
+              "label": "Losses",
+              "value": "3"
+            },
+            {
+              "label": "Wins",
+              "value": "8"
+            }
+          ]
+        }
+      }
+    },
+    "lions": {
+      "record": "5-2",
+      "standing": "6th in National Football Conference",
+      "stats": [
+        {
+          "label": "Completion Percentage",
+          "value": "67.7"
+        },
+        {
+          "label": "Completions",
+          "value": "168"
+        },
+        {
+          "label": "Interception Percentage",
+          "value": "0.40"
+        },
+        {
+          "label": "Interceptions",
+          "value": "1"
+        },
+        {
+          "label": "Longest Pass",
+          "value": "57"
+        },
+        {
+          "label": "Net Passing Yards",
+          "value": "1,848"
+        },
+        {
+          "label": "Net Passing Yards Per Game",
+          "value": "264.0"
+        },
+        {
+          "label": "Passing Attempts",
+          "value": "248"
+        }
+      ],
+      "leaders": [],
+      "last_game": {
+        "date": "2026-11-01T18:00Z",
+        "opponent": "Vikings",
+        "opponent_location": "Minnesota",
+        "opponent_id": "16",
+        "home": true,
+        "my_score": "19",
+        "opp_score": "15",
+        "won": true
+      },
+      "next_games": [
+        {
+          "date": "2026-11-08T18:00Z",
+          "opponent": "Dolphins",
+          "opponent_location": "Miami",
+          "opponent_id": "15",
+          "home": false,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        },
+        {
+          "date": "2026-11-15T14:30Z",
+          "opponent": "Patriots",
+          "opponent_location": "New England",
+          "opponent_id": "17",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        },
+        {
+          "date": "2026-11-22T18:00Z",
+          "opponent": "Buccaneers",
+          "opponent_location": "Tampa Bay",
+          "opponent_id": "27",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        }
+      ],
+      "matchup": {
+        "opponent": {
+          "record": "1-6",
+          "standing": "4th in AFC East",
+          "stats": [
+            {
+              "label": "Completion Percentage",
+              "value": "59.0"
+            },
+            {
+              "label": "Completions",
+              "value": "108"
+            },
+            {
+              "label": "Interception Percentage",
+              "value": "2.70"
+            },
+            {
+              "label": "Interceptions",
+              "value": "5"
+            },
+            {
+              "label": "Longest Pass",
+              "value": "77"
+            },
+            {
+              "label": "Net Passing Yards",
+              "value": "1,167"
+            },
+            {
+              "label": "Net Passing Yards Per Game",
+              "value": "166.7"
+            },
+            {
+              "label": "Passing Attempts",
+              "value": "183"
+            }
+          ]
+        }
+      }
+    },
+    "michigan": {
+      "record": "5-3",
+      "standing": "10th in Big Ten",
+      "stats": [
+        {
+          "label": "totalYards",
+          "value": "2531"
+        },
+        {
+          "label": "rushingYards",
+          "value": "1104"
+        },
+        {
+          "label": "turnovers",
+          "value": "13"
+        },
+        {
+          "label": "sacks",
+          "value": "17"
+        }
+      ],
+      "leaders": [],
+      "last_game": {
+        "date": "2026-10-31T16:30Z",
+        "opponent": "Rutgers",
+        "opponent_location": "Rutgers",
+        "opponent_id": "164",
+        "home": false,
+        "my_score": "28",
+        "opp_score": "21",
+        "won": true
+      },
+      "next_games": [
+        {
+          "date": "2026-11-08T00:30Z",
+          "opponent": "Michigan St",
+          "opponent_location": "Michigan State",
+          "opponent_id": "127",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        },
+        {
+          "date": "2026-11-14T20:30Z",
+          "opponent": "Oregon",
+          "opponent_location": "Oregon",
+          "opponent_id": "2483",
+          "home": false,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        },
+        {
+          "date": "2026-11-21T05:00Z",
+          "opponent": "UCLA",
+          "opponent_location": "UCLA",
+          "opponent_id": "26",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        }
+      ],
+      "matchup": {
+        "team_wins": 75,
+        "opp_wins": 38,
+        "ties": 5,
+        "opponent": {
+          "record": "2-6",
+          "standing": "16th in Big Ten",
+          "stats": [
+            {
+              "label": "Completion Percentage",
+              "value": "64.4"
+            },
+            {
+              "label": "Completions",
+              "value": "143"
+            },
+            {
+              "label": "Interception Percentage",
+              "value": "2.70"
+            },
+            {
+              "label": "Interceptions",
+              "value": "6"
+            },
+            {
+              "label": "Longest Pass",
+              "value": "53"
+            },
+            {
+              "label": "Net Passing Yards",
+              "value": "1,450"
+            },
+            {
+              "label": "Net Passing Yards Per Game",
+              "value": "181.3"
+            },
+            {
+              "label": "Passing Attempts",
+              "value": "222"
+            }
+          ]
+        }
+      }
+    },
+    "msu": {
+      "record": "2-6",
+      "standing": "16th in Big Ten",
+      "stats": [
+        {
+          "label": "totalYards",
+          "value": "2331"
+        },
+        {
+          "label": "rushingYards",
+          "value": "881"
+        },
+        {
+          "label": "turnovers",
+          "value": "11"
+        },
+        {
+          "label": "sacks",
+          "value": "12"
+        }
+      ],
+      "leaders": [],
+      "last_game": {
+        "date": "2026-10-24T19:30Z",
+        "opponent": "UCLA",
+        "opponent_location": "UCLA",
+        "opponent_id": "26",
+        "home": false,
+        "my_score": "10",
+        "opp_score": "28",
+        "won": false
+      },
+      "next_games": [
+        {
+          "date": "2026-11-08T00:30Z",
+          "opponent": "Michigan",
+          "opponent_location": "Michigan",
+          "opponent_id": "130",
+          "home": false,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        },
+        {
+          "date": "2026-11-14T21:15Z",
+          "opponent": "Washington",
+          "opponent_location": "Washington",
+          "opponent_id": "264",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        },
+        {
+          "date": "2026-11-21T01:00Z",
+          "opponent": "Oregon",
+          "opponent_location": "Oregon",
+          "opponent_id": "2483",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
+        }
+      ],
+      "matchup": {
+        "team_wins": 38,
+        "opp_wins": 75,
+        "ties": 5,
+        "opponent": {
+          "record": "5-3",
+          "standing": "10th in Big Ten",
+          "stats": [
+            {
+              "label": "Completion Percentage",
+              "value": "62.4"
+            },
+            {
+              "label": "Completions",
+              "value": "121"
+            },
+            {
+              "label": "Interception Percentage",
+              "value": "3.60"
+            },
+            {
+              "label": "Interceptions",
+              "value": "7"
+            },
+            {
+              "label": "Longest Pass",
+              "value": "49"
+            },
+            {
+              "label": "Net Passing Yards",
+              "value": "1,427"
+            },
+            {
+              "label": "Net Passing Yards Per Game",
+              "value": "178.4"
+            },
+            {
+              "label": "Passing Attempts",
+              "value": "194"
+            }
+          ]
+        }
+      }
+    },
+    "tigers": {
+      "record": "76-86",
+      "standing": "2nd in AL Cent",
+      "stats": [
+        {
+          "label": "Team Games Played",
+          "value": "162"
+        },
+        {
+          "label": "At Bats",
+          "value": "5461"
+        },
+        {
+          "label": "Hits",
+          "value": "1315"
+        },
+        {
+          "label": "Runs Batted In",
+          "value": "683"
+        },
+        {
+          "label": "Home Runs",
+          "value": "181"
+        },
+        {
+          "label": "Stolen Bases",
+          "value": "58"
+        },
+        {
+          "label": "Batting Average",
+          "value": ".241"
+        },
+        {
+          "label": "Runs",
+          "value": "723"
+        }
+      ],
+      "leaders": [
+        {
+          "name": "Dillon Dingler",
+          "line": "27 homeRuns"
+        },
+        {
+          "name": "Keider Montero",
+          "line": "17 homeRuns"
+        },
+        {
+          "name": "Dillon Dingler",
+          "line": "122 homeRuns"
+        },
+        {
+          "name": "Riley Greene",
+          "line": ".280 battingAverage"
+        },
+        {
+          "name": "Framber Valdez",
+          "line": ".253 battingAverage"
+        }
+      ],
+      "last_game": null,
+      "next_games": [],
+      "matchup": {}
+    }
+  },
+  "report": {
+    "pistons": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  Opponent: ok.  Opponent stats: ok",
+    "wings": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  NHL leaders: ok.  Opponent: ok.  Opponent stats: ok",
+    "lions": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  Opponent: ok.  Opponent stats: ok",
+    "michigan": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  CFBD stats: ok.  CFBD matchup: ok.  Opponent: ok.  Opponent stats: ok",
+    "msu": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  CFBD stats: ok.  CFBD matchup: ok.  Opponent: ok.  Opponent stats: ok",
+    "tigers": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  MLB leaders: ok"
+  }
+}
