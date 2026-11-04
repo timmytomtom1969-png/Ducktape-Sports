@@ -6,6 +6,7 @@ from datetime import datetime, timezone
 
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0 Safari/537.36"
 CFBD_KEY = os.environ.get("CFBD_API_KEY", "")
+APIS_KEY = os.environ.get("APISPORTS_KEY", "")
 ESPN = "https://site.api.espn.com/apis/site/v2/sports"
 
 # key matches the team keys in the app
@@ -184,6 +185,28 @@ def build(key, t, report):
     return out
 
 
+def apisports_probe():
+    # Finds out what the free API-Sports plan allows for player stats.
+    out = {}
+    for name, host, search, path in (
+        ("nba", "v2.nba.api-sports.io", "Detroit", "players/statistics"),
+        ("nfl", "v1.american-football.api-sports.io", "Detroit", "players/statistics"),
+    ):
+        h = {"x-apisports-key": APIS_KEY}
+        try:
+            teams = get("https://%s/teams?search=%s" % (host, search), h)
+            ids = [(x.get("id"), x.get("name")) for x in teams.get("response", [])][:4]
+            note = {"teams": ids, "errors": teams.get("errors")}
+            if ids:
+                for season in (2026, 2025):
+                    d = get("https://%s/%s?team=%s&season=%d" % (host, path, ids[0][0], season), h)
+                    note["season%d" % season] = {"results": d.get("results"), "errors": d.get("errors")}
+            out[name] = note
+        except Exception as e:
+            out[name] = {"failed": str(e)[:100]}
+    return out
+
+
 def main():
     result = {"updated": datetime.now(timezone.utc).isoformat(), "teams": {}, "report": {}}
     for key, t in TEAMS.items():
@@ -191,6 +214,8 @@ def main():
         result["teams"][key] = build(key, t, report)
         result["report"][key] = ".  ".join(report)
         print(key, "->", result["report"][key])
+    if APIS_KEY:
+        result["apisports_probe"] = apisports_probe()
     with open("stats.json", "w", encoding="utf-8") as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
 
