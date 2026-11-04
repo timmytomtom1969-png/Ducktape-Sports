@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T15:51:08.420896+00:00",
+  "updated": "2026-11-04T19:53:06.130435+00:00",
   "teams": {
     "pistons": {
       "record": "6-1",
@@ -2716,25 +2716,7 @@
       }
     },
     "nfl": {
-      "teams": [
-        [
-          7,
-          "Detroit Lions"
-        ]
-      ],
-      "errors": [],
-      "season2026": {
-        "results": 0,
-        "errors": {
-          "plan": "Free plans do not have access to this season, try from 2022 to 2024."
-        }
-      },
-      "season2025": {
-        "results": 0,
-        "errors": {
-          "plan": "Free plans do not have access to this season, try from 2022 to 2024."
-        }
-      }
+      "failed": "HTTP Error 520: <none>"
     }
   }
 }
