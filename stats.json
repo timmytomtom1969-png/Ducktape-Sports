@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T03:42:30.176711+00:00",
+  "updated": "2026-11-04T03:47:31.039561+00:00",
   "teams": {
     "pistons": {
       "record": "6-1",
@@ -220,7 +220,8 @@
         "home": false,
         "my_score": "124",
         "opp_score": "91",
-        "won": true
+        "won": true,
+        "channels": "NBA League Pass"
       },
       "next_games": [
         {
@@ -231,7 +232,8 @@
           "home": true,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": "ESPN"
         },
         {
           "date": "2026-11-08T23:00Z",
@@ -241,7 +243,8 @@
           "home": true,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": "NBA TV, Spectrum Sports Net, Spectrum Sports Net +"
         },
         {
           "date": "2026-11-10T00:00Z",
@@ -251,7 +254,8 @@
           "home": true,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": "NBCSN"
         }
       ],
       "matchup": {
@@ -619,7 +623,8 @@
         "home": false,
         "my_score": "2",
         "opp_score": "4",
-        "won": false
+        "won": false,
+        "channels": "ESPN+, DSN, The Spot - MTN"
       },
       "next_games": [
         {
@@ -630,7 +635,8 @@
           "home": true,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": "ESPN+, Scripps Sports, DSN"
         },
         {
           "date": "2026-11-08T02:00Z",
@@ -640,7 +646,8 @@
           "home": false,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": "ESPN+, DSN, Altitude Sports"
         },
         {
           "date": "2026-11-11T01:00Z",
@@ -650,7 +657,8 @@
           "home": false,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": "TNT, truTV"
         }
       ],
       "matchup": {
@@ -1154,7 +1162,8 @@
         "home": true,
         "my_score": "19",
         "opp_score": "15",
-        "won": true
+        "won": true,
+        "channels": "Fox"
       },
       "next_games": [
         {
@@ -1165,7 +1174,8 @@
           "home": false,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": "Fox"
         },
         {
           "date": "2026-11-15T14:30Z",
@@ -1175,7 +1185,8 @@
           "home": true,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": "Fox"
         },
         {
           "date": "2026-11-22T18:00Z",
@@ -1185,7 +1196,8 @@
           "home": true,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": "CBS"
         }
       ],
       "matchup": {
@@ -1548,7 +1560,8 @@
         "home": false,
         "my_score": "28",
         "opp_score": "21",
-        "won": true
+        "won": true,
+        "channels": "BTN"
       },
       "next_games": [
         {
@@ -1559,7 +1572,8 @@
           "home": true,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": "Peacock"
         },
         {
           "date": "2026-11-14T20:30Z",
@@ -1569,7 +1583,8 @@
           "home": false,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": "FS1"
         },
         {
           "date": "2026-11-21T05:00Z",
@@ -1579,7 +1594,8 @@
           "home": true,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": ""
         }
       ],
       "matchup": {
@@ -1945,7 +1961,8 @@
         "home": false,
         "my_score": "10",
         "opp_score": "28",
-        "won": false
+        "won": false,
+        "channels": "CBS"
       },
       "next_games": [
         {
@@ -1956,7 +1973,8 @@
           "home": false,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": "Peacock"
         },
         {
           "date": "2026-11-14T21:15Z",
@@ -1966,7 +1984,8 @@
           "home": true,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": "BTN"
         },
         {
           "date": "2026-11-21T01:00Z",
@@ -1976,7 +1995,8 @@
           "home": true,
           "my_score": "",
           "opp_score": "",
-          "won": false
+          "won": false,
+          "channels": "Fox"
         }
       ],
       "matchup": {
