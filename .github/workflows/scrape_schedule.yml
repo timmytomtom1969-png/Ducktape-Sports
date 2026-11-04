@@ -24,10 +24,16 @@ jobs:
     - name: Run Scraper
       run: python scraper.py
 
+    - name: Run Stats
+      env:
+        CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
+        APISPORTS_KEY: ${{ secrets.APISPORTS_KEY }}
+      run: python stats.py
+
     - name: Commit and Push changes
       run: |
         git config --global user.name "GitHub Actions Bot"
         git config --global user.email "actions@github.com"
-        git add news.json
+        git add news.json stats.json
         git commit -m "Automated update of sports news" || exit 0
         git push
