@@ -62,6 +62,19 @@ def espn_stats(base):
     return flat[:80]
 
 
+def broadcast_names(comp):
+    names = []
+    for key in ("broadcasts", "geoBroadcasts"):
+        for b in comp.get(key, []) or []:
+            m = (b.get("media") or {}).get("shortName", "")
+            if m and m not in names:
+                names.append(m)
+            for n in b.get("names", []) or []:
+                if n and n not in names:
+                    names.append(n)
+    return ", ".join(names[:3])
+
+
 def espn_games(base):
     events = get(base + "/schedule").get("events", [])
     last, nxt = None, []
@@ -85,6 +98,7 @@ def espn_games(base):
             "my_score": num(mine.get("score", "")),
             "opp_score": num(opp.get("score", "")),
             "won": bool(mine.get("winner")),
+            "channels": broadcast_names(comp),
         }
         if done:
             last = g
