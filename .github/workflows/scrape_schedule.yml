@@ -4,6 +4,7 @@ on:
   schedule:
     # Runs everyday at 11:00 AM UTC (Which is 6:00 AM Detroit Eastern Time)
     - cron: '0 11 * * *'
+    - cron: '0 15,19,23,3 * * *'
   workflow_dispatch: # This adds a manual "Run" button to test it instantly
 
 jobs:

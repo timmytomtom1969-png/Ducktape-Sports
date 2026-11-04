@@ -40,6 +40,10 @@ def espn_team(t):
     out = {"record": "", "standing": "", "stats": []}
     info = get(base).get("team", {})
     out["standing"] = info.get("standingSummary", "")
+    logos = info.get("logos", [])
+    dark = [l["href"] for l in logos if "dark" in (l.get("rel") or []) and "scoreboard" not in (l.get("rel") or [])]
+    plain = [l["href"] for l in logos if l.get("href")]
+    out["logo"] = (dark or plain or [info.get("logo", "")])[0].replace("http://", "https://")
     items = info.get("record", {}).get("items", [])
     if items:
         out["record"] = items[0].get("summary", "")
@@ -55,7 +59,7 @@ def espn_stats(base):
             val = s.get("displayValue")
             if name and val not in (None, ""):
                 flat.append({"label": name, "value": str(val)})
-    return flat[:8]
+    return flat[:80]
 
 
 def espn_games(base):
