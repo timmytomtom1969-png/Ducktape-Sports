@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T02:33:17.025335+00:00",
+  "updated": "2026-11-04T03:28:26.779403+00:00",
   "teams": {
     "pistons": {
       "record": "6-1",
@@ -123,7 +123,7 @@
       }
     },
     "wings": {
-      "record": "7-5",
+      "record": "7-6",
       "standing": "9th in Eastern Conference",
       "stats": [
         {
@@ -165,12 +165,12 @@
           "line": "16 pts (7G 9A)"
         },
         {
-          "name": "Viktor Arvidsson",
-          "line": "15 pts (8G 7A)"
+          "name": "Lucas Raymond",
+          "line": "16 pts (6G 10A)"
         },
         {
-          "name": "Lucas Raymond",
-          "line": "15 pts (5G 10A)"
+          "name": "Viktor Arvidsson",
+          "line": "15 pts (8G 7A)"
         },
         {
           "name": "Emmitt Finnie",
@@ -182,26 +182,16 @@
         }
       ],
       "last_game": {
-        "date": "2026-11-03T00:00Z",
-        "opponent": "Panthers",
-        "opponent_location": "Florida",
-        "opponent_id": "26",
+        "date": "2026-11-04T00:00Z",
+        "opponent": "Lightning",
+        "opponent_location": "Tampa Bay",
+        "opponent_id": "20",
         "home": false,
-        "my_score": "5",
-        "opp_score": "3",
-        "won": true
+        "my_score": "2",
+        "opp_score": "4",
+        "won": false
       },
       "next_games": [
-        {
-          "date": "2026-11-04T00:00Z",
-          "opponent": "Lightning",
-          "opponent_location": "Tampa Bay",
-          "opponent_id": "20",
-          "home": false,
-          "my_score": "",
-          "opp_score": "",
-          "won": false
-        },
         {
           "date": "2026-11-06T00:00Z",
           "opponent": "Golden Knights",
@@ -221,24 +211,34 @@
           "my_score": "",
           "opp_score": "",
           "won": false
+        },
+        {
+          "date": "2026-11-11T01:00Z",
+          "opponent": "Blues",
+          "opponent_location": "St. Louis",
+          "opponent_id": "19",
+          "home": false,
+          "my_score": "",
+          "opp_score": "",
+          "won": false
         }
       ],
       "matchup": {
         "opponent": {
-          "record": "8-3",
-          "standing": "5th in Eastern Conference",
+          "record": "10-5",
+          "standing": "3rd in Western Conference",
           "stats": [
             {
               "label": "Games Played",
-              "value": "13"
+              "value": "16"
             },
             {
               "label": "Time On Ice",
-              "value": "4644:48"
+              "value": "5743:42"
             },
             {
               "label": "Time On Ice Per Game",
-              "value": "357:17"
+              "value": "358:58"
             },
             {
               "label": "Plus/Minus Rating",
@@ -250,15 +250,15 @@
             },
             {
               "label": "Shifts",
-              "value": "4820"
+              "value": "5939"
             },
             {
               "label": "Losses",
-              "value": "3"
+              "value": "5"
             },
             {
               "label": "Wins",
-              "value": "8"
+              "value": "9"
             }
           ]
         }
@@ -672,5 +672,49 @@
     "michigan": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  CFBD stats: ok.  CFBD matchup: ok.  Opponent: ok.  Opponent stats: ok",
     "msu": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  CFBD stats: ok.  CFBD matchup: ok.  Opponent: ok.  Opponent stats: ok",
     "tigers": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  MLB leaders: ok"
+  },
+  "apisports_probe": {
+    "nba": {
+      "teams": [
+        [
+          10,
+          "Detroit Pistons"
+        ]
+      ],
+      "errors": [],
+      "season2026": {
+        "results": 0,
+        "errors": {
+          "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+        }
+      },
+      "season2025": {
+        "results": 0,
+        "errors": {
+          "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+        }
+      }
+    },
+    "nfl": {
+      "teams": [
+        [
+          7,
+          "Detroit Lions"
+        ]
+      ],
+      "errors": [],
+      "season2026": {
+        "results": 0,
+        "errors": {
+          "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+        }
+      },
+      "season2025": {
+        "results": 0,
+        "errors": {
+          "plan": "Free plans do not have access to this season, try from 2022 to 2024."
+        }
+      }
+    }
   }
 }
