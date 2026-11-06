@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T23:40:24.481111+00:00",
+  "updated": "2026-11-06T03:47:46.121779+00:00",
   "teams": {
     "pistons": {
       "record": "6-2",
@@ -453,8 +453,8 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500-dark/det.png"
     },
     "wings": {
-      "record": "7-6",
-      "standing": "9th in Eastern Conference",
+      "record": "7-7",
+      "standing": "10th in Eastern Conference",
       "stats": [
         {
           "label": "Games Played",
@@ -616,28 +616,17 @@
         }
       ],
       "last_game": {
-        "date": "2026-11-04T00:00Z",
-        "opponent": "Lightning",
-        "opponent_location": "Tampa Bay",
-        "opponent_id": "20",
-        "home": false,
-        "my_score": "2",
-        "opp_score": "4",
+        "date": "2026-11-06T00:00Z",
+        "opponent": "Golden Knights",
+        "opponent_location": "Vegas",
+        "opponent_id": "37",
+        "home": true,
+        "my_score": "1",
+        "opp_score": "2",
         "won": false,
-        "channels": "ESPN+, DSN, The Spot - MTN"
+        "channels": "ESPN+, Scripps Sports, DSN"
       },
       "next_games": [
-        {
-          "date": "2026-11-06T00:00Z",
-          "opponent": "Golden Knights",
-          "opponent_location": "Vegas",
-          "opponent_id": "37",
-          "home": true,
-          "my_score": "",
-          "opp_score": "",
-          "won": false,
-          "channels": "ESPN+, Scripps Sports, DSN"
-        },
         {
           "date": "2026-11-08T02:00Z",
           "opponent": "Avalanche",
@@ -659,24 +648,35 @@
           "opp_score": "",
           "won": false,
           "channels": "TNT, truTV"
+        },
+        {
+          "date": "2026-11-13T00:30Z",
+          "opponent": "Panthers",
+          "opponent_location": "Florida",
+          "opponent_id": "26",
+          "home": false,
+          "my_score": "",
+          "opp_score": "",
+          "won": false,
+          "channels": "Disney+, ESPN+, Hulu"
         }
       ],
       "matchup": {
         "opponent": {
-          "record": "10-5",
-          "standing": "3rd in Western Conference",
+          "record": "9-6",
+          "standing": "6th in Western Conference",
           "stats": [
             {
               "label": "Games Played",
-              "value": "17"
+              "value": "16"
             },
             {
               "label": "Time On Ice",
-              "value": "6091:42"
+              "value": "5695:11"
             },
             {
               "label": "Time On Ice Per Game",
-              "value": "358:20"
+              "value": "355:56"
             },
             {
               "label": "Plus/Minus Rating",
@@ -688,31 +688,31 @@
             },
             {
               "label": "Shifts",
-              "value": "6270"
+              "value": "5633"
             },
             {
               "label": "Losses",
-              "value": "5"
+              "value": "6"
             },
             {
               "label": "Wins",
-              "value": "10"
+              "value": "9"
             },
             {
               "label": "Goals",
-              "value": "57"
+              "value": "66"
             },
             {
               "label": "Assists",
-              "value": "96"
+              "value": "121"
             },
             {
               "label": "Faceoffs Won",
-              "value": "478"
+              "value": "468"
             },
             {
               "label": "Faceoffs Lost",
-              "value": "472"
+              "value": "497"
             },
             {
               "label": "Game-Winning Goals",
@@ -720,87 +720,87 @@
             },
             {
               "label": "Points",
-              "value": "153"
+              "value": "187"
             },
             {
               "label": "Power Play Goals",
-              "value": "15"
+              "value": "11"
             },
             {
               "label": "Power Play Assists",
-              "value": "29"
+              "value": "22"
             },
             {
               "label": "Short Handed Goals",
-              "value": "3"
+              "value": "0"
             },
             {
               "label": "Short Handed Assists",
-              "value": "2"
+              "value": "0"
             },
             {
               "label": "Shots",
-              "value": "483"
+              "value": "488"
             },
             {
               "label": "Shootout Attempts",
-              "value": "5"
-            },
-            {
-              "label": "Shootout Goals",
-              "value": "2"
-            },
-            {
-              "label": "Shootout Shot Percentage",
-              "value": "40.0"
-            },
-            {
-              "label": "Shooting Percentage",
-              "value": "11.8"
-            },
-            {
-              "label": "Faceoff Win Percent",
-              "value": "50.3"
-            },
-            {
-              "label": "Goals Against Average",
-              "value": "2.82"
-            },
-            {
-              "label": "Saves",
-              "value": "388"
-            },
-            {
-              "label": "Save Percentage",
-              "value": ".894"
-            },
-            {
-              "label": "Goals Against",
-              "value": "48"
-            },
-            {
-              "label": "Shots Against",
-              "value": "436"
-            },
-            {
-              "label": "Overtime Losses",
-              "value": "2"
-            },
-            {
-              "label": "Shootout Saves",
               "value": "4"
             },
             {
+              "label": "Shootout Goals",
+              "value": "1"
+            },
+            {
+              "label": "Shootout Shot Percentage",
+              "value": "25.0"
+            },
+            {
+              "label": "Shooting Percentage",
+              "value": "13.5"
+            },
+            {
+              "label": "Faceoff Win Percent",
+              "value": "48.5"
+            },
+            {
+              "label": "Goals Against Average",
+              "value": "3.25"
+            },
+            {
+              "label": "Saves",
+              "value": "386"
+            },
+            {
+              "label": "Save Percentage",
+              "value": ".885"
+            },
+            {
+              "label": "Goals Against",
+              "value": "52"
+            },
+            {
+              "label": "Shots Against",
+              "value": "438"
+            },
+            {
+              "label": "Overtime Losses",
+              "value": "1"
+            },
+            {
+              "label": "Shootout Saves",
+              "value": "2"
+            },
+            {
               "label": "Shootout Shots Against",
-              "value": "5"
+              "value": "4"
             },
             {
               "label": "Shootout Save Percentage",
-              "value": ".800"
+              "value": ".500"
             },
             {
               "label": "Penalty Minutes",
-              "value": "150"
+              "value": "139"
             }
           ]
         }
