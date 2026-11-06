@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T03:47:46.121779+00:00",
+  "updated": "2026-11-06T11:44:56.901949+00:00",
   "teams": {
     "pistons": {
       "record": "6-2",
@@ -458,15 +458,15 @@
       "stats": [
         {
           "label": "Games Played",
-          "value": "16"
+          "value": "17"
         },
         {
           "label": "Time On Ice",
-          "value": "5759:01"
+          "value": "6113:01"
         },
         {
           "label": "Time On Ice Per Game",
-          "value": "359:56"
+          "value": "359:35"
         },
         {
           "label": "Plus/Minus Rating",
@@ -478,11 +478,11 @@
         },
         {
           "label": "Shifts",
-          "value": "6147"
+          "value": "6528"
         },
         {
           "label": "Losses",
-          "value": "6"
+          "value": "7"
         },
         {
           "label": "Wins",
@@ -490,19 +490,19 @@
         },
         {
           "label": "Goals",
-          "value": "46"
+          "value": "47"
         },
         {
           "label": "Assists",
-          "value": "80"
+          "value": "82"
         },
         {
           "label": "Faceoffs Won",
-          "value": "452"
+          "value": "481"
         },
         {
           "label": "Faceoffs Lost",
-          "value": "459"
+          "value": "494"
         },
         {
           "label": "Game-Winning Goals",
@@ -510,7 +510,7 @@
         },
         {
           "label": "Points",
-          "value": "126"
+          "value": "129"
         },
         {
           "label": "Power Play Goals",
@@ -530,7 +530,7 @@
         },
         {
           "label": "Shots",
-          "value": "465"
+          "value": "491"
         },
         {
           "label": "Shootout Attempts",
@@ -546,31 +546,31 @@
         },
         {
           "label": "Shooting Percentage",
-          "value": "9.9"
+          "value": "9.6"
         },
         {
           "label": "Faceoff Win Percent",
-          "value": "49.6"
+          "value": "49.3"
         },
         {
           "label": "Goals Against Average",
-          "value": "3.00"
+          "value": "2.94"
         },
         {
           "label": "Saves",
-          "value": "347"
+          "value": "379"
         },
         {
           "label": "Save Percentage",
-          "value": ".883"
+          "value": ".888"
         },
         {
           "label": "Goals Against",
-          "value": "48"
+          "value": "50"
         },
         {
           "label": "Shots Against",
-          "value": "395"
+          "value": "429"
         },
         {
           "label": "Overtime Losses",
@@ -590,7 +590,7 @@
         },
         {
           "label": "Penalty Minutes",
-          "value": "136"
+          "value": "142"
         }
       ],
       "leaders": [
@@ -664,19 +664,19 @@
       "matchup": {
         "opponent": {
           "record": "9-6",
-          "standing": "6th in Western Conference",
+          "standing": "5th in Western Conference",
           "stats": [
             {
               "label": "Games Played",
-              "value": "16"
+              "value": "17"
             },
             {
               "label": "Time On Ice",
-              "value": "5695:11"
+              "value": "6056:23"
             },
             {
               "label": "Time On Ice Per Game",
-              "value": "355:56"
+              "value": "356:15"
             },
             {
               "label": "Plus/Minus Rating",
@@ -688,7 +688,7 @@
             },
             {
               "label": "Shifts",
-              "value": "5633"
+              "value": "5985"
             },
             {
               "label": "Losses",
@@ -700,19 +700,19 @@
             },
             {
               "label": "Goals",
-              "value": "66"
+              "value": "68"
             },
             {
               "label": "Assists",
-              "value": "121"
+              "value": "125"
             },
             {
               "label": "Faceoffs Won",
-              "value": "468"
+              "value": "498"
             },
             {
               "label": "Faceoffs Lost",
-              "value": "497"
+              "value": "527"
             },
             {
               "label": "Game-Winning Goals",
@@ -720,7 +720,7 @@
             },
             {
               "label": "Points",
-              "value": "187"
+              "value": "193"
             },
             {
               "label": "Power Play Goals",
@@ -740,7 +740,7 @@
             },
             {
               "label": "Shots",
-              "value": "488"
+              "value": "520"
             },
             {
               "label": "Shootout Attempts",
@@ -756,19 +756,19 @@
             },
             {
               "label": "Shooting Percentage",
-              "value": "13.5"
+              "value": "13.1"
             },
             {
               "label": "Faceoff Win Percent",
-              "value": "48.5"
+              "value": "48.6"
             },
             {
               "label": "Goals Against Average",
-              "value": "3.25"
+              "value": "3.24"
             },
             {
               "label": "Saves",
-              "value": "386"
+              "value": "408"
             },
             {
               "label": "Save Percentage",
@@ -776,15 +776,15 @@
             },
             {
               "label": "Goals Against",
-              "value": "52"
+              "value": "55"
             },
             {
               "label": "Shots Against",
-              "value": "438"
+              "value": "463"
             },
             {
               "label": "Overtime Losses",
-              "value": "1"
+              "value": "2"
             },
             {
               "label": "Shootout Saves",
@@ -800,7 +800,7 @@
             },
             {
               "label": "Penalty Minutes",
-              "value": "139"
+              "value": "149"
             }
           ]
         }
