@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T19:37:11.395454+00:00",
+  "updated": "2026-11-07T23:30:31.645570+00:00",
   "teams": {
     "pistons": {
       "record": "6-2",
@@ -454,7 +454,7 @@
     },
     "wings": {
       "record": "7-7",
-      "standing": "11th in Eastern Conference",
+      "standing": "12th in Eastern Conference",
       "stats": [
         {
           "label": "Games Played",
@@ -664,7 +664,7 @@
       "matchup": {
         "opponent": {
           "record": "9-6",
-          "standing": "5th in Western Conference",
+          "standing": "6th in Western Conference",
           "stats": [
             {
               "label": "Games Played",
@@ -1532,7 +1532,7 @@
     },
     "michigan": {
       "record": "5-3",
-      "standing": "10th in Big Ten",
+      "standing": "11th in Big Ten",
       "stats": [
         {
           "label": "totalYards",
@@ -1604,7 +1604,7 @@
         "ties": 5,
         "opponent": {
           "record": "2-6",
-          "standing": "16th in Big Ten",
+          "standing": "18th in Big Ten",
           "stats": [
             {
               "label": "Completion Percentage",
@@ -1933,7 +1933,7 @@
     },
     "msu": {
       "record": "2-6",
-      "standing": "16th in Big Ten",
+      "standing": "18th in Big Ten",
       "stats": [
         {
           "label": "totalYards",
@@ -2005,7 +2005,7 @@
         "ties": 5,
         "opponent": {
           "record": "5-3",
-          "standing": "10th in Big Ten",
+          "standing": "11th in Big Ten",
           "stats": [
             {
               "label": "Completion Percentage",
