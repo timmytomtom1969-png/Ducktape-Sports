@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T03:43:33.711732+00:00",
+  "updated": "2026-11-07T11:28:21.610682+00:00",
   "teams": {
     "pistons": {
       "record": "6-2",
@@ -260,7 +260,7 @@
       ],
       "matchup": {
         "opponent": {
-          "record": "7-2",
+          "record": "8-2",
           "standing": "1st in Pacific Division",
           "stats": [
             {
@@ -558,11 +558,11 @@
         },
         {
           "label": "Saves",
-          "value": "379"
+          "value": "378"
         },
         {
           "label": "Save Percentage",
-          "value": ".888"
+          "value": ".887"
         },
         {
           "label": "Goals Against",
@@ -570,7 +570,7 @@
         },
         {
           "label": "Shots Against",
-          "value": "429"
+          "value": "428"
         },
         {
           "label": "Overtime Losses",
@@ -740,7 +740,7 @@
             },
             {
               "label": "Shots",
-              "value": "520"
+              "value": "521"
             },
             {
               "label": "Shootout Attempts",
