@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T15:30:08.790762+00:00",
+  "updated": "2026-11-08T19:39:26.930296+00:00",
   "teams": {
     "pistons": {
       "record": "6-2",
@@ -1175,7 +1175,7 @@
           "my_score": "",
           "opp_score": "",
           "won": false,
-          "channels": "Fox"
+          "channels": "CBS"
         },
         {
           "date": "2026-11-15T14:30Z",
@@ -1197,7 +1197,7 @@
           "my_score": "",
           "opp_score": "",
           "won": false,
-          "channels": "CBS"
+          "channels": "Fox"
         }
       ],
       "matchup": {
