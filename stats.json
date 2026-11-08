@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T23:30:31.645570+00:00",
+  "updated": "2026-11-08T03:46:47.606833+00:00",
   "teams": {
     "pistons": {
       "record": "6-2",
@@ -633,8 +633,8 @@
           "opponent_location": "Colorado",
           "opponent_id": "17",
           "home": false,
-          "my_score": "",
-          "opp_score": "",
+          "my_score": "0",
+          "opp_score": "2",
           "won": false,
           "channels": "ESPN+, DSN, Altitude Sports"
         },
@@ -664,7 +664,7 @@
       "matchup": {
         "opponent": {
           "record": "9-6",
-          "standing": "6th in Western Conference",
+          "standing": "7th in Western Conference",
           "stats": [
             {
               "label": "Games Played",
@@ -1601,7 +1601,7 @@
       "matchup": {
         "team_wins": 75,
         "opp_wins": 38,
-        "ties": 5,
+        "ties": 6,
         "opponent": {
           "record": "2-6",
           "standing": "18th in Big Ten",
@@ -2002,7 +2002,7 @@
       "matchup": {
         "team_wins": 38,
         "opp_wins": 75,
-        "ties": 5,
+        "ties": 6,
         "opponent": {
           "record": "5-3",
           "standing": "11th in Big Ten",
