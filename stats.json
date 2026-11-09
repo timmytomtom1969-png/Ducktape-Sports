@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T15:55:02.057707+00:00",
+  "updated": "2026-11-09T19:52:08.868523+00:00",
   "teams": {
     "pistons": {
       "record": "6-3",
@@ -636,7 +636,7 @@
           "my_score": "",
           "opp_score": "",
           "won": false,
-          "channels": "TNT, truTV"
+          "channels": "TNT"
         },
         {
           "date": "2026-11-13T00:30Z",
