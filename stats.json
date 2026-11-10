@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-09T23:36:00.974651+00:00",
+  "updated": "2026-11-10T03:44:53.329922+00:00",
   "teams": {
     "pistons": {
-      "record": "6-3",
+      "record": "7-3",
       "standing": "1st in Central Division",
       "stats": [
         {
@@ -213,28 +213,17 @@
         }
       ],
       "last_game": {
-        "date": "2026-11-08T23:00Z",
-        "opponent": "Lakers",
-        "opponent_location": "Los Angeles",
-        "opponent_id": "13",
+        "date": "2026-11-10T00:00Z",
+        "opponent": "Wizards",
+        "opponent_location": "Washington",
+        "opponent_id": "27",
         "home": true,
-        "my_score": "116",
-        "opp_score": "121",
-        "won": false,
-        "channels": "NBA TV, Spectrum Sports Net, Spectrum Sports Net +"
+        "my_score": "122",
+        "opp_score": "111",
+        "won": true,
+        "channels": "NBCSN"
       },
       "next_games": [
-        {
-          "date": "2026-11-10T00:00Z",
-          "opponent": "Wizards",
-          "opponent_location": "Washington",
-          "opponent_id": "27",
-          "home": true,
-          "my_score": "",
-          "opp_score": "",
-          "won": false,
-          "channels": "NBCSN"
-        },
         {
           "date": "2026-11-13T00:00Z",
           "opponent": "Wizards",
@@ -256,12 +245,23 @@
           "opp_score": "",
           "won": false,
           "channels": "NBA TV"
+        },
+        {
+          "date": "2026-11-18T01:00Z",
+          "opponent": "Spurs",
+          "opponent_location": "San Antonio",
+          "opponent_id": "24",
+          "home": false,
+          "my_score": "",
+          "opp_score": "",
+          "won": false,
+          "channels": "NBC"
         }
       ],
       "matchup": {
         "opponent": {
-          "record": "4-6",
-          "standing": "8th in Eastern Conference Division",
+          "record": "4-7",
+          "standing": "9th in Eastern Conference Division",
           "stats": [
             {
               "label": "Rebounds Per Game",
