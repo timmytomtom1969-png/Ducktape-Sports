@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T03:49:48.415342+00:00",
+  "updated": "2026-11-11T11:47:33.354325+00:00",
   "teams": {
     "pistons": {
       "record": "7-3",
@@ -453,20 +453,20 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500-dark/det.png"
     },
     "wings": {
-      "record": "7-8",
+      "record": "7-9",
       "standing": "13th in Eastern Conference",
       "stats": [
         {
           "label": "Games Played",
-          "value": "18"
+          "value": "19"
         },
         {
           "label": "Time On Ice",
-          "value": "6465:34"
+          "value": "6823:34"
         },
         {
           "label": "Time On Ice Per Game",
-          "value": "359:11"
+          "value": "359:08"
         },
         {
           "label": "Plus/Minus Rating",
@@ -478,11 +478,11 @@
         },
         {
           "label": "Shifts",
-          "value": "6925"
+          "value": "7298"
         },
         {
           "label": "Losses",
-          "value": "8"
+          "value": "9"
         },
         {
           "label": "Wins",
@@ -490,19 +490,19 @@
         },
         {
           "label": "Goals",
-          "value": "47"
+          "value": "49"
         },
         {
           "label": "Assists",
-          "value": "82"
+          "value": "86"
         },
         {
           "label": "Faceoffs Won",
-          "value": "497"
+          "value": "530"
         },
         {
           "label": "Faceoffs Lost",
-          "value": "521"
+          "value": "551"
         },
         {
           "label": "Game-Winning Goals",
@@ -510,7 +510,7 @@
         },
         {
           "label": "Points",
-          "value": "129"
+          "value": "135"
         },
         {
           "label": "Power Play Goals",
@@ -530,7 +530,7 @@
         },
         {
           "label": "Shots",
-          "value": "518"
+          "value": "550"
         },
         {
           "label": "Shootout Attempts",
@@ -546,11 +546,11 @@
         },
         {
           "label": "Shooting Percentage",
-          "value": "9.1"
+          "value": "8.9"
         },
         {
           "label": "Faceoff Win Percent",
-          "value": "48.8"
+          "value": "49.0"
         },
         {
           "label": "Goals Against Average",
@@ -558,19 +558,19 @@
         },
         {
           "label": "Saves",
-          "value": "403"
+          "value": "433"
         },
         {
           "label": "Save Percentage",
-          "value": ".886"
+          "value": ".887"
         },
         {
           "label": "Goals Against",
-          "value": "54"
+          "value": "57"
         },
         {
           "label": "Shots Against",
-          "value": "457"
+          "value": "490"
         },
         {
           "label": "Overtime Losses",
@@ -590,54 +590,43 @@
         },
         {
           "label": "Penalty Minutes",
-          "value": "161"
+          "value": "168"
         }
       ],
       "leaders": [
         {
-          "name": "Alex DeBrincat",
-          "line": "16 pts (7G 9A)"
+          "name": "Lucas Raymond",
+          "line": "18 pts (6G 12A)"
         },
         {
-          "name": "Lucas Raymond",
-          "line": "16 pts (6G 10A)"
+          "name": "Alex DeBrincat",
+          "line": "16 pts (7G 9A)"
         },
         {
           "name": "Viktor Arvidsson",
           "line": "15 pts (8G 7A)"
         },
         {
-          "name": "Emmitt Finnie",
-          "line": "11 pts (7G 4A)"
+          "name": "Moritz Seider",
+          "line": "11 pts (1G 10A)"
         },
         {
           "name": "John Gibson",
-          "line": "0.860 save pct"
+          "line": "0.866 save pct"
         }
       ],
       "last_game": {
-        "date": "2026-11-08T02:00Z",
-        "opponent": "Avalanche",
-        "opponent_location": "Colorado",
-        "opponent_id": "17",
+        "date": "2026-11-11T01:00Z",
+        "opponent": "Blues",
+        "opponent_location": "St. Louis",
+        "opponent_id": "19",
         "home": false,
-        "my_score": "0",
-        "opp_score": "4",
+        "my_score": "2",
+        "opp_score": "3",
         "won": false,
-        "channels": "ESPN+, DSN, Altitude Sports"
+        "channels": "TNT"
       },
       "next_games": [
-        {
-          "date": "2026-11-11T01:00Z",
-          "opponent": "Blues",
-          "opponent_location": "St. Louis",
-          "opponent_id": "19",
-          "home": false,
-          "my_score": "",
-          "opp_score": "",
-          "won": false,
-          "channels": "TNT"
-        },
         {
           "date": "2026-11-13T00:30Z",
           "opponent": "Panthers",
@@ -659,24 +648,35 @@
           "opp_score": "",
           "won": false,
           "channels": "ESPN+, DSN, The Spot - MTN"
+        },
+        {
+          "date": "2026-11-19T00:30Z",
+          "opponent": "Bruins",
+          "opponent_location": "Boston",
+          "opponent_id": "1",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false,
+          "channels": "TNT"
         }
       ],
       "matchup": {
         "opponent": {
-          "record": "7-8",
-          "standing": "13th in Western Conference",
+          "record": "10-7",
+          "standing": "7th in Eastern Conference",
           "stats": [
             {
               "label": "Games Played",
-              "value": "17"
+              "value": "19"
             },
             {
               "label": "Time On Ice",
-              "value": "6037:58"
+              "value": "6745:25"
             },
             {
               "label": "Time On Ice Per Game",
-              "value": "355:10"
+              "value": "355:01"
             },
             {
               "label": "Plus/Minus Rating",
@@ -688,31 +688,31 @@
             },
             {
               "label": "Shifts",
-              "value": "6506"
+              "value": "7114"
             },
             {
               "label": "Losses",
-              "value": "8"
-            },
-            {
-              "label": "Wins",
               "value": "7"
             },
             {
+              "label": "Wins",
+              "value": "10"
+            },
+            {
               "label": "Goals",
-              "value": "50"
+              "value": "60"
             },
             {
               "label": "Assists",
-              "value": "86"
+              "value": "100"
             },
             {
               "label": "Faceoffs Won",
-              "value": "504"
+              "value": "538"
             },
             {
               "label": "Faceoffs Lost",
-              "value": "517"
+              "value": "597"
             },
             {
               "label": "Game-Winning Goals",
@@ -720,27 +720,27 @@
             },
             {
               "label": "Points",
-              "value": "136"
+              "value": "160"
             },
             {
               "label": "Power Play Goals",
-              "value": "11"
+              "value": "20"
             },
             {
               "label": "Power Play Assists",
-              "value": "22"
+              "value": "39"
             },
             {
               "label": "Short Handed Goals",
-              "value": "3"
+              "value": "1"
             },
             {
               "label": "Short Handed Assists",
-              "value": "3"
+              "value": "2"
             },
             {
               "label": "Shots",
-              "value": "460"
+              "value": "559"
             },
             {
               "label": "Shootout Attempts",
@@ -756,31 +756,31 @@
             },
             {
               "label": "Shooting Percentage",
-              "value": "10.9"
+              "value": "10.7"
             },
             {
               "label": "Faceoff Win Percent",
-              "value": "49.4"
+              "value": "47.4"
             },
             {
               "label": "Goals Against Average",
-              "value": "3.12"
+              "value": "2.95"
             },
             {
               "label": "Saves",
-              "value": "436"
+              "value": "437"
             },
             {
               "label": "Save Percentage",
-              "value": ".899"
+              "value": ".892"
             },
             {
               "label": "Goals Against",
-              "value": "53"
+              "value": "56"
             },
             {
               "label": "Shots Against",
-              "value": "489"
+              "value": "493"
             },
             {
               "label": "Overtime Losses",
@@ -800,7 +800,7 @@
             },
             {
               "label": "Penalty Minutes",
-              "value": "125"
+              "value": "306"
             }
           ]
         }
