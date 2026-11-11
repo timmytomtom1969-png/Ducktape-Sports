@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T15:46:29.387073+00:00",
+  "updated": "2026-11-11T19:54:03.159273+00:00",
   "teams": {
     "pistons": {
       "record": "7-3",
@@ -2691,7 +2691,7 @@
     "lions": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  ESPN leaders: ok.  Opponent: ok.  Opponent stats: ok",
     "michigan": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  CFBD stats: ok.  CFBD matchup: ok.  Opponent: ok.  Opponent stats: ok",
     "msu": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  CFBD stats: ok.  CFBD matchup: ok.  Opponent: ok.  Opponent stats: ok",
-    "tigers": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  MLB leaders: ok"
+    "tigers": "ESPN team: ok.  ESPN stats: ok.  ESPN games: failed (<urlopen error _ssl.c:1129: The handshake operation timed out>).  MLB leaders: ok"
   },
   "apisports_probe": {
     "nba": {
