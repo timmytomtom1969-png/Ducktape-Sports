@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T23:44:14.461345+00:00",
+  "updated": "2026-11-12T03:50:11.111657+00:00",
   "teams": {
     "pistons": {
       "record": "7-3",
@@ -260,8 +260,8 @@
       ],
       "matchup": {
         "opponent": {
-          "record": "4-7",
-          "standing": "9th in Eastern Conference Division",
+          "record": "4-8",
+          "standing": "10th in Eastern Conference Division",
           "stats": [
             {
               "label": "Rebounds Per Game",
@@ -664,7 +664,7 @@
       "matchup": {
         "opponent": {
           "record": "10-7",
-          "standing": "7th in Eastern Conference",
+          "standing": "8th in Eastern Conference",
           "stats": [
             {
               "label": "Games Played",
