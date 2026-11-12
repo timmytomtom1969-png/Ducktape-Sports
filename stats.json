@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T03:50:11.111657+00:00",
+  "updated": "2026-11-12T11:51:00.785541+00:00",
   "teams": {
     "pistons": {
       "record": "7-3",
@@ -261,15 +261,15 @@
       "matchup": {
         "opponent": {
           "record": "4-8",
-          "standing": "10th in Eastern Conference Division",
+          "standing": "11th in Eastern Conference Division",
           "stats": [
             {
               "label": "Rebounds Per Game",
-              "value": "42.0"
+              "value": "42.5"
             },
             {
               "label": "Assist To Turnover Ratio",
-              "value": "1.7"
+              "value": "1.6"
             },
             {
               "label": "Fouls Per Game",
@@ -277,7 +277,7 @@
             },
             {
               "label": "Games Played",
-              "value": "11"
+              "value": "12"
             },
             {
               "label": "Games Started",
@@ -293,55 +293,55 @@
             },
             {
               "label": "Rebounds",
-              "value": "462"
+              "value": "510"
             },
             {
               "label": "Rebounds",
-              "value": "462"
+              "value": "510"
             },
             {
               "label": "Free Throw Percentage",
-              "value": "80.5"
+              "value": "79.9"
             },
             {
               "label": "3-Point Field Goal Percentage",
-              "value": "29.6"
+              "value": "29.8"
             },
             {
               "label": "Average Field Goals Made",
-              "value": "39.2"
+              "value": "39.0"
             },
             {
               "label": "Average Field Goals Attempted",
-              "value": "85.5"
+              "value": "85.8"
             },
             {
               "label": "Average 3-Point Field Goals Made",
-              "value": "9.5"
+              "value": "9.6"
             },
             {
               "label": "Average 3-Point Field Goals Attempted",
-              "value": "31.9"
+              "value": "32.2"
             },
             {
               "label": "Average Free Throws Made",
-              "value": "20.3"
+              "value": "19.9"
             },
             {
               "label": "Average Free Throws Attempted",
-              "value": "25.2"
+              "value": "24.9"
             },
             {
               "label": "Points Per Game",
-              "value": "108.1"
+              "value": "107.5"
             },
             {
               "label": "Offensive Rebounds Per Game",
-              "value": "10.0"
+              "value": "10.4"
             },
             {
               "label": "Assists Per Game",
-              "value": "23.8"
+              "value": "22.8"
             },
             {
               "label": "Turnovers Per Game",
@@ -349,11 +349,11 @@
             },
             {
               "label": "2-Point Field Goal Percentage",
-              "value": "55.5"
+              "value": "54.8"
             },
             {
               "label": "Scoring Efficiency",
-              "value": "1.265"
+              "value": "1.252"
             },
             {
               "label": "Shooting Efficiency",
@@ -361,75 +361,75 @@
             },
             {
               "label": "Field Goal Percentage",
-              "value": "45.9"
+              "value": "45.4"
             },
             {
               "label": "2-Point Field Goals Made",
-              "value": "327.0"
+              "value": "353.0"
             },
             {
               "label": "2-Point Field Goals Attempted",
-              "value": "589.0"
+              "value": "644.0"
             },
             {
               "label": "Points",
-              "value": "1189"
+              "value": "1290"
             },
             {
               "label": "Offensive Rebounds",
-              "value": "110"
+              "value": "125"
             },
             {
               "label": "Assists",
-              "value": "262"
+              "value": "274"
             },
             {
               "label": "Turnovers",
-              "value": "153"
+              "value": "167"
             },
             {
               "label": "Field Goals Made",
-              "value": "431"
+              "value": "468"
             },
             {
               "label": "Field Goals Attempted",
-              "value": "940"
+              "value": "1030"
             },
             {
               "label": "Free Throws Made",
-              "value": "223"
+              "value": "239"
             },
             {
               "label": "Free Throws Attempted",
-              "value": "277"
+              "value": "299"
             },
             {
               "label": "3-Point Field Goals Made",
-              "value": "104"
+              "value": "115"
             },
             {
               "label": "3-Point Field Goals Attempted",
-              "value": "351"
+              "value": "386"
             },
             {
               "label": "3-Point Field Goal Percentage",
-              "value": "29.6"
+              "value": "29.8"
             },
             {
               "label": "2-Point Field Goals Made per Game",
-              "value": "29.7"
+              "value": "29.4"
             },
             {
               "label": "2-Point Field Goals Attempted per Game",
-              "value": "53.5"
+              "value": "53.7"
             },
             {
               "label": "Defensive Rebounds Per Game",
-              "value": "32.0"
+              "value": "32.1"
             },
             {
               "label": "Blocks Per Game",
-              "value": "5.5"
+              "value": "5.3"
             },
             {
               "label": "Steals Per Game",
@@ -437,15 +437,15 @@
             },
             {
               "label": "Defensive Rebounds",
-              "value": "352"
+              "value": "385"
             },
             {
               "label": "Steals",
-              "value": "84"
+              "value": "91"
             },
             {
               "label": "Blocks",
-              "value": "60"
+              "value": "64"
             }
           ]
         }
@@ -530,7 +530,7 @@
         },
         {
           "label": "Shots",
-          "value": "550"
+          "value": "549"
         },
         {
           "label": "Shootout Attempts",
@@ -740,7 +740,7 @@
             },
             {
               "label": "Shots",
-              "value": "559"
+              "value": "560"
             },
             {
               "label": "Shootout Attempts",
@@ -768,7 +768,7 @@
             },
             {
               "label": "Saves",
-              "value": "437"
+              "value": "438"
             },
             {
               "label": "Save Percentage",
@@ -780,7 +780,7 @@
             },
             {
               "label": "Shots Against",
-              "value": "493"
+              "value": "494"
             },
             {
               "label": "Overtime Losses",
@@ -2334,7 +2334,7 @@
     },
     "tigers": {
       "record": "76-86",
-      "standing": "4th in AL Cent",
+      "standing": "2nd in AL Cent",
       "stats": [
         {
           "label": "Team Games Played",
@@ -2680,8 +2680,369 @@
         }
       ],
       "last_game": null,
-      "next_games": [],
-      "matchup": {},
+      "next_games": [
+        {
+          "date": "2027-03-25T04:00Z",
+          "opponent": "White Sox",
+          "opponent_location": "Chicago",
+          "opponent_id": "4",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false,
+          "channels": "MLB.TV"
+        },
+        {
+          "date": "2027-03-27T04:00Z",
+          "opponent": "White Sox",
+          "opponent_location": "Chicago",
+          "opponent_id": "4",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false,
+          "channels": "MLB.TV"
+        },
+        {
+          "date": "2027-03-28T04:00Z",
+          "opponent": "White Sox",
+          "opponent_location": "Chicago",
+          "opponent_id": "4",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false,
+          "channels": "MLB.TV"
+        }
+      ],
+      "matchup": {
+        "opponent": {
+          "record": "84-78",
+          "standing": "1st in AL Cent",
+          "stats": [
+            {
+              "label": "Team Games Played",
+              "value": "7"
+            },
+            {
+              "label": "At Bats",
+              "value": "227"
+            },
+            {
+              "label": "Hits",
+              "value": "48"
+            },
+            {
+              "label": "Runs Batted In",
+              "value": "26"
+            },
+            {
+              "label": "Home Runs",
+              "value": "4"
+            },
+            {
+              "label": "Stolen Bases",
+              "value": "5"
+            },
+            {
+              "label": "Batting Average",
+              "value": ".211"
+            },
+            {
+              "label": "Runs",
+              "value": "28"
+            },
+            {
+              "label": "Doubles",
+              "value": "7"
+            },
+            {
+              "label": "Triples",
+              "value": "0"
+            },
+            {
+              "label": "Total Bases",
+              "value": "67"
+            },
+            {
+              "label": "Walks",
+              "value": "29"
+            },
+            {
+              "label": "Strikeouts",
+              "value": "96"
+            },
+            {
+              "label": "On Base Percentage",
+              "value": ".316"
+            },
+            {
+              "label": "Slugging Percentage",
+              "value": ".295"
+            },
+            {
+              "label": "OBP Pct + SLG Pct",
+              "value": ".611"
+            },
+            {
+              "label": "Games Played",
+              "value": "7"
+            },
+            {
+              "label": "Games Started",
+              "value": "7"
+            },
+            {
+              "label": "Hit By Pitch",
+              "value": "7"
+            },
+            {
+              "label": "Wins Above Replacement",
+              "value": "0.0"
+            },
+            {
+              "label": "Offensive Wins Above Replacement",
+              "value": "0.0"
+            },
+            {
+              "label": "Caught Stealing",
+              "value": "0"
+            },
+            {
+              "label": "Is Qualified",
+              "value": "1"
+            },
+            {
+              "label": "Runs Created",
+              "value": "22.9"
+            },
+            {
+              "label": "Runs Created Per 27 Outs",
+              "value": "3.3"
+            },
+            {
+              "label": "Walks Per Plate Appearance",
+              "value": ".109"
+            },
+            {
+              "label": "Walk To Strikeout Ratio",
+              "value": "0.30"
+            },
+            {
+              "label": "Isolated Power",
+              "value": ".084"
+            },
+            {
+              "label": "Secondary Average",
+              "value": ".233"
+            },
+            {
+              "label": "Pitches Per Plate Appearance",
+              "value": "4.16"
+            },
+            {
+              "label": "Extra Base Hits",
+              "value": "11"
+            },
+            {
+              "label": "Plate Appearances",
+              "value": "267"
+            },
+            {
+              "label": "At Bats Per Home Run",
+              "value": "56.8"
+            },
+            {
+              "label": "Sacrifice Hit",
+              "value": "1"
+            },
+            {
+              "label": "Sacrifice Flies",
+              "value": "3"
+            },
+            {
+              "label": "Team Games Played",
+              "value": "7"
+            },
+            {
+              "label": "Quality Starts",
+              "value": "0"
+            },
+            {
+              "label": "Wins",
+              "value": "4"
+            },
+            {
+              "label": "Losses",
+              "value": "3"
+            },
+            {
+              "label": "Saves",
+              "value": "2"
+            },
+            {
+              "label": "Holds",
+              "value": "3"
+            },
+            {
+              "label": "Hits",
+              "value": "45"
+            },
+            {
+              "label": "Earned runs",
+              "value": "27"
+            },
+            {
+              "label": "Home Runs",
+              "value": "7"
+            },
+            {
+              "label": "Walks",
+              "value": "30"
+            },
+            {
+              "label": "Strikeouts",
+              "value": "59"
+            },
+            {
+              "label": "Strikeouts Per 9 Innings",
+              "value": "8.6"
+            },
+            {
+              "label": "Pitches Per Start",
+              "value": "149.7"
+            },
+            {
+              "label": "Walks Plus Hits Per Inning Pitched",
+              "value": "1.21"
+            },
+            {
+              "label": "Earned Run Average",
+              "value": "3.92"
+            },
+            {
+              "label": "Losses",
+              "value": "3"
+            },
+            {
+              "label": "Innings pitched",
+              "value": "62.0"
+            },
+            {
+              "label": "Win Percentage",
+              "value": ".571"
+            },
+            {
+              "label": "Save Opportunities",
+              "value": "4"
+            },
+            {
+              "label": "Opponent Batting Average",
+              "value": ".200"
+            },
+            {
+              "label": "Opponent's On-base pct.",
+              "value": ".302"
+            },
+            {
+              "label": "Opponent's Slugging pct.",
+              "value": ".351"
+            },
+            {
+              "label": "Opponent's OPB Pct + SLG Pct",
+              "value": ".653"
+            },
+            {
+              "label": "At Bats",
+              "value": "225"
+            },
+            {
+              "label": "Doubles",
+              "value": "7"
+            },
+            {
+              "label": "Triples",
+              "value": "3"
+            },
+            {
+              "label": "Batters Hit",
+              "value": "3"
+            },
+            {
+              "label": "Stolen Bases",
+              "value": "3"
+            },
+            {
+              "label": "Games Played",
+              "value": "7"
+            },
+            {
+              "label": "Complete Games",
+              "value": "0"
+            },
+            {
+              "label": "Shutouts",
+              "value": "1"
+            },
+            {
+              "label": "Wild Pitches",
+              "value": "1"
+            },
+            {
+              "label": "Runs Batted In",
+              "value": "27"
+            },
+            {
+              "label": "Balks",
+              "value": "1"
+            },
+            {
+              "label": "Innings pitched",
+              "value": "62.0"
+            },
+            {
+              "label": "Strikeouts Per 9 Innings",
+              "value": "8.6"
+            },
+            {
+              "label": "Caught Stealing",
+              "value": "1"
+            },
+            {
+              "label": "Games Started",
+              "value": "7"
+            },
+            {
+              "label": "Wins Above Replacement",
+              "value": "0.0"
+            },
+            {
+              "label": "Is Qualified",
+              "value": "1"
+            },
+            {
+              "label": "Runs",
+              "value": "29"
+            },
+            {
+              "label": "Earned Runs",
+              "value": "27"
+            },
+            {
+              "label": "Total Bases",
+              "value": "79"
+            },
+            {
+              "label": "Team Games Played",
+              "value": "7"
+            },
+            {
+              "label": "Full Innings",
+              "value": "558"
+            }
+          ]
+        }
+      },
       "logo": "https://a.espncdn.com/i/teamlogos/mlb/500-dark/det.png"
     }
   },
@@ -2691,7 +3052,7 @@
     "lions": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  ESPN leaders: ok.  Opponent: ok.  Opponent stats: ok",
     "michigan": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  CFBD stats: ok.  CFBD matchup: ok.  Opponent: ok.  Opponent stats: ok",
     "msu": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  CFBD stats: ok.  CFBD matchup: ok.  Opponent: ok.  Opponent stats: ok",
-    "tigers": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  MLB leaders: ok"
+    "tigers": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  MLB leaders: ok.  Opponent: ok.  Opponent stats: ok"
   },
   "apisports_probe": {
     "nba": {
