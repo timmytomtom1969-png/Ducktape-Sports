@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-12T23:38:27.004120+00:00",
+  "updated": "2026-11-13T03:49:20.796588+00:00",
   "teams": {
     "pistons": {
-      "record": "7-3",
+      "record": "8-3",
       "standing": "1st in Central Division",
       "stats": [
         {
@@ -213,28 +213,17 @@
         }
       ],
       "last_game": {
-        "date": "2026-11-10T00:00Z",
+        "date": "2026-11-13T00:00Z",
         "opponent": "Wizards",
         "opponent_location": "Washington",
         "opponent_id": "27",
-        "home": true,
-        "my_score": "122",
-        "opp_score": "111",
+        "home": false,
+        "my_score": "144",
+        "opp_score": "140",
         "won": true,
-        "channels": "NBCSN"
+        "channels": "MNMT"
       },
       "next_games": [
-        {
-          "date": "2026-11-13T00:00Z",
-          "opponent": "Wizards",
-          "opponent_location": "Washington",
-          "opponent_id": "27",
-          "home": false,
-          "my_score": "",
-          "opp_score": "",
-          "won": false,
-          "channels": "MNMT"
-        },
         {
           "date": "2026-11-15T01:00Z",
           "opponent": "Heat",
@@ -256,28 +245,39 @@
           "opp_score": "",
           "won": false,
           "channels": "NBC"
+        },
+        {
+          "date": "2026-11-19T01:00Z",
+          "opponent": "Pelicans",
+          "opponent_location": "New Orleans",
+          "opponent_id": "3",
+          "home": false,
+          "my_score": "",
+          "opp_score": "",
+          "won": false,
+          "channels": "GCSEN, Pelicans.com"
         }
       ],
       "matchup": {
         "opponent": {
-          "record": "4-8",
-          "standing": "11th in Eastern Conference Division",
+          "record": "5-6",
+          "standing": "7th in Eastern Conference Division",
           "stats": [
             {
               "label": "Rebounds Per Game",
-              "value": "42.5"
+              "value": "41.9"
             },
             {
               "label": "Assist To Turnover Ratio",
-              "value": "1.6"
+              "value": "2.0"
             },
             {
               "label": "Fouls Per Game",
-              "value": "19.8"
+              "value": "20.8"
             },
             {
               "label": "Games Played",
-              "value": "12"
+              "value": "11"
             },
             {
               "label": "Games Started",
@@ -293,159 +293,159 @@
             },
             {
               "label": "Rebounds",
-              "value": "510"
+              "value": "461"
             },
             {
               "label": "Rebounds",
-              "value": "510"
+              "value": "461"
             },
             {
               "label": "Free Throw Percentage",
-              "value": "79.9"
+              "value": "72.3"
             },
             {
               "label": "3-Point Field Goal Percentage",
-              "value": "29.8"
+              "value": "33.6"
             },
             {
               "label": "Average Field Goals Made",
-              "value": "39.0"
+              "value": "41.5"
             },
             {
               "label": "Average Field Goals Attempted",
-              "value": "85.8"
+              "value": "89.8"
             },
             {
               "label": "Average 3-Point Field Goals Made",
-              "value": "9.6"
+              "value": "13.4"
             },
             {
               "label": "Average 3-Point Field Goals Attempted",
-              "value": "32.2"
+              "value": "39.8"
             },
             {
               "label": "Average Free Throws Made",
-              "value": "19.9"
+              "value": "19.5"
             },
             {
               "label": "Average Free Throws Attempted",
-              "value": "24.9"
+              "value": "26.9"
             },
             {
               "label": "Points Per Game",
-              "value": "107.5"
+              "value": "115.7"
             },
             {
               "label": "Offensive Rebounds Per Game",
-              "value": "10.4"
+              "value": "10.1"
             },
             {
               "label": "Assists Per Game",
-              "value": "22.8"
+              "value": "28.7"
             },
             {
               "label": "Turnovers Per Game",
-              "value": "13.9"
+              "value": "14.4"
             },
             {
               "label": "2-Point Field Goal Percentage",
-              "value": "54.8"
+              "value": "56.2"
             },
             {
               "label": "Scoring Efficiency",
-              "value": "1.252"
+              "value": "1.288"
             },
             {
               "label": "Shooting Efficiency",
-              "value": "0.51"
+              "value": "0.54"
             },
             {
               "label": "Field Goal Percentage",
-              "value": "45.4"
+              "value": "46.2"
             },
             {
               "label": "2-Point Field Goals Made",
-              "value": "353.0"
+              "value": "309.0"
             },
             {
               "label": "2-Point Field Goals Attempted",
-              "value": "644.0"
+              "value": "550.0"
             },
             {
               "label": "Points",
-              "value": "1290"
+              "value": "1273"
             },
             {
               "label": "Offensive Rebounds",
-              "value": "125"
+              "value": "111"
             },
             {
               "label": "Assists",
-              "value": "274"
+              "value": "316"
             },
             {
               "label": "Turnovers",
-              "value": "167"
+              "value": "158"
             },
             {
               "label": "Field Goals Made",
-              "value": "468"
+              "value": "456"
             },
             {
               "label": "Field Goals Attempted",
-              "value": "1030"
+              "value": "988"
             },
             {
               "label": "Free Throws Made",
-              "value": "239"
+              "value": "214"
             },
             {
               "label": "Free Throws Attempted",
-              "value": "299"
+              "value": "296"
             },
             {
               "label": "3-Point Field Goals Made",
-              "value": "115"
+              "value": "147"
             },
             {
               "label": "3-Point Field Goals Attempted",
-              "value": "386"
+              "value": "438"
             },
             {
               "label": "3-Point Field Goal Percentage",
-              "value": "29.8"
+              "value": "33.6"
             },
             {
               "label": "2-Point Field Goals Made per Game",
-              "value": "29.4"
+              "value": "28.1"
             },
             {
               "label": "2-Point Field Goals Attempted per Game",
-              "value": "53.7"
+              "value": "50.0"
             },
             {
               "label": "Defensive Rebounds Per Game",
-              "value": "32.1"
+              "value": "31.8"
             },
             {
               "label": "Blocks Per Game",
-              "value": "5.3"
+              "value": "5.1"
             },
             {
               "label": "Steals Per Game",
-              "value": "7.6"
+              "value": "8.2"
             },
             {
               "label": "Defensive Rebounds",
-              "value": "385"
+              "value": "350"
             },
             {
               "label": "Steals",
-              "value": "91"
+              "value": "90"
             },
             {
               "label": "Blocks",
-              "value": "64"
+              "value": "56"
             }
           ]
         }
@@ -453,7 +453,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nba/500-dark/det.png"
     },
     "wings": {
-      "record": "7-9",
+      "record": "7-10",
       "standing": "13th in Eastern Conference",
       "stats": [
         {
@@ -596,7 +596,7 @@
       "leaders": [
         {
           "name": "Lucas Raymond",
-          "line": "18 pts (6G 12A)"
+          "line": "19 pts (7G 12A)"
         },
         {
           "name": "Alex DeBrincat",
@@ -608,36 +608,25 @@
         },
         {
           "name": "Moritz Seider",
-          "line": "11 pts (1G 10A)"
+          "line": "13 pts (1G 12A)"
         },
         {
           "name": "John Gibson",
-          "line": "0.866 save pct"
+          "line": "0.862 save pct"
         }
       ],
       "last_game": {
-        "date": "2026-11-11T01:00Z",
-        "opponent": "Blues",
-        "opponent_location": "St. Louis",
-        "opponent_id": "19",
+        "date": "2026-11-13T00:30Z",
+        "opponent": "Panthers",
+        "opponent_location": "Florida",
+        "opponent_id": "26",
         "home": false,
-        "my_score": "2",
-        "opp_score": "3",
+        "my_score": "4",
+        "opp_score": "5",
         "won": false,
-        "channels": "TNT"
+        "channels": "Disney+, ESPN+, Hulu"
       },
       "next_games": [
-        {
-          "date": "2026-11-13T00:30Z",
-          "opponent": "Panthers",
-          "opponent_location": "Florida",
-          "opponent_id": "26",
-          "home": false,
-          "my_score": "",
-          "opp_score": "",
-          "won": false,
-          "channels": "Disney+, ESPN+, Hulu"
-        },
         {
           "date": "2026-11-15T00:00Z",
           "opponent": "Lightning",
@@ -659,24 +648,35 @@
           "opp_score": "",
           "won": false,
           "channels": "TNT"
+        },
+        {
+          "date": "2026-11-22T00:00Z",
+          "opponent": "Islanders",
+          "opponent_location": "New York",
+          "opponent_id": "12",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false,
+          "channels": "ESPN+, MSG2, DSN"
         }
       ],
       "matchup": {
         "opponent": {
-          "record": "10-7",
-          "standing": "8th in Eastern Conference",
+          "record": "13-4",
+          "standing": "2nd in Eastern Conference",
           "stats": [
             {
               "label": "Games Played",
-              "value": "19"
+              "value": "18"
             },
             {
               "label": "Time On Ice",
-              "value": "6745:25"
+              "value": "6426:28"
             },
             {
               "label": "Time On Ice Per Game",
-              "value": "355:01"
+              "value": "357:01"
             },
             {
               "label": "Plus/Minus Rating",
@@ -688,31 +688,31 @@
             },
             {
               "label": "Shifts",
-              "value": "7114"
+              "value": "6714"
             },
             {
               "label": "Losses",
-              "value": "7"
+              "value": "4"
             },
             {
               "label": "Wins",
-              "value": "10"
+              "value": "12"
             },
             {
               "label": "Goals",
-              "value": "60"
+              "value": "71"
             },
             {
               "label": "Assists",
-              "value": "100"
+              "value": "116"
             },
             {
               "label": "Faceoffs Won",
-              "value": "538"
+              "value": "519"
             },
             {
               "label": "Faceoffs Lost",
-              "value": "597"
+              "value": "534"
             },
             {
               "label": "Game-Winning Goals",
@@ -720,31 +720,31 @@
             },
             {
               "label": "Points",
-              "value": "160"
+              "value": "187"
             },
             {
               "label": "Power Play Goals",
-              "value": "20"
+              "value": "14"
             },
             {
               "label": "Power Play Assists",
-              "value": "39"
+              "value": "28"
             },
             {
               "label": "Short Handed Goals",
-              "value": "1"
+              "value": "0"
             },
             {
               "label": "Short Handed Assists",
-              "value": "2"
+              "value": "0"
             },
             {
               "label": "Shots",
-              "value": "560"
+              "value": "530"
             },
             {
               "label": "Shootout Attempts",
-              "value": "0"
+              "value": "4"
             },
             {
               "label": "Shootout Goals",
@@ -756,31 +756,31 @@
             },
             {
               "label": "Shooting Percentage",
-              "value": "10.7"
+              "value": "13.4"
             },
             {
               "label": "Faceoff Win Percent",
-              "value": "47.4"
+              "value": "49.3"
             },
             {
               "label": "Goals Against Average",
-              "value": "2.95"
+              "value": "3.06"
             },
             {
               "label": "Saves",
-              "value": "438"
+              "value": "396"
             },
             {
               "label": "Save Percentage",
-              "value": ".892"
+              "value": ".884"
             },
             {
               "label": "Goals Against",
-              "value": "56"
+              "value": "55"
             },
             {
               "label": "Shots Against",
-              "value": "494"
+              "value": "451"
             },
             {
               "label": "Overtime Losses",
@@ -788,19 +788,19 @@
             },
             {
               "label": "Shootout Saves",
-              "value": "0"
+              "value": "3"
             },
             {
               "label": "Shootout Shots Against",
-              "value": "0"
+              "value": "4"
             },
             {
               "label": "Shootout Save Percentage",
-              "value": ".000"
+              "value": ".750"
             },
             {
               "label": "Penalty Minutes",
-              "value": "306"
+              "value": "148"
             }
           ]
         }
