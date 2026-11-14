@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T03:45:17.112600+00:00",
+  "updated": "2026-11-14T11:29:09.128273+00:00",
   "teams": {
     "pistons": {
       "record": "8-3",
@@ -260,8 +260,8 @@
       ],
       "matchup": {
         "opponent": {
-          "record": "5-6",
-          "standing": "7th in Eastern Conference Division",
+          "record": "6-6",
+          "standing": "5th in Eastern Conference Division",
           "stats": [
             {
               "label": "Rebounds Per Game",
@@ -478,7 +478,7 @@
         },
         {
           "label": "Shifts",
-          "value": "7655"
+          "value": "7654"
         },
         {
           "label": "Losses",
@@ -498,11 +498,11 @@
         },
         {
           "label": "Faceoffs Won",
-          "value": "558"
+          "value": "557"
         },
         {
           "label": "Faceoffs Lost",
-          "value": "579"
+          "value": "580"
         },
         {
           "label": "Game-Winning Goals",
@@ -550,7 +550,7 @@
         },
         {
           "label": "Faceoff Win Percent",
-          "value": "49.1"
+          "value": "49.0"
         },
         {
           "label": "Goals Against Average",
@@ -1966,7 +1966,7 @@
       },
       "next_games": [
         {
-          "date": "2026-11-14T21:15Z",
+          "date": "2026-11-14T22:30Z",
           "opponent": "Washington",
           "opponent_location": "Washington",
           "opponent_id": "264",
