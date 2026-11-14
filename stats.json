@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T19:38:16.410422+00:00",
+  "updated": "2026-11-14T23:30:08.775104+00:00",
   "teams": {
     "pistons": {
       "record": "8-3",
@@ -1532,7 +1532,7 @@
     },
     "michigan": {
       "record": "5-4",
-      "standing": "10th in Big Ten",
+      "standing": "12th in Big Ten",
       "stats": [
         {
           "label": "totalYards",
@@ -1601,10 +1601,10 @@
       "matchup": {
         "team_wins": 3,
         "opp_wins": 3,
-        "ties": 0,
+        "ties": 1,
         "opponent": {
           "record": "6-3",
-          "standing": "3rd in Big Ten",
+          "standing": "4th in Big Ten",
           "stats": [
             {
               "label": "Completion Percentage",
@@ -2002,10 +2002,10 @@
       "matchup": {
         "team_wins": 1,
         "opp_wins": 4,
-        "ties": 0,
+        "ties": 1,
         "opponent": {
           "record": "5-4",
-          "standing": "10th in Big Ten",
+          "standing": "12th in Big Ten",
           "stats": [
             {
               "label": "Completion Percentage",
