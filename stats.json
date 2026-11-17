@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T03:49:53.439615+00:00",
+  "updated": "2026-11-17T11:44:26.051274+00:00",
   "teams": {
     "pistons": {
       "record": "8-4",
@@ -530,7 +530,7 @@
         },
         {
           "label": "Shots",
-          "value": "599"
+          "value": "598"
         },
         {
           "label": "Shootout Attempts",
@@ -558,7 +558,7 @@
         },
         {
           "label": "Saves",
-          "value": "488"
+          "value": "489"
         },
         {
           "label": "Save Percentage",
@@ -570,7 +570,7 @@
         },
         {
           "label": "Shots Against",
-          "value": "550"
+          "value": "551"
         },
         {
           "label": "Overtime Losses",
@@ -708,11 +708,11 @@
             },
             {
               "label": "Faceoffs Won",
-              "value": "650"
+              "value": "654"
             },
             {
               "label": "Faceoffs Lost",
-              "value": "525"
+              "value": "521"
             },
             {
               "label": "Game-Winning Goals",
@@ -740,7 +740,7 @@
             },
             {
               "label": "Shots",
-              "value": "546"
+              "value": "547"
             },
             {
               "label": "Shootout Attempts",
@@ -760,7 +760,7 @@
             },
             {
               "label": "Faceoff Win Percent",
-              "value": "55.3"
+              "value": "55.7"
             },
             {
               "label": "Goals Against Average",
@@ -1873,7 +1873,7 @@
             },
             {
               "label": "Possession Time Seconds",
-              "value": "19283"
+              "value": "19347"
             },
             {
               "label": "Red Zone Field Goal Percentage",
@@ -1966,7 +1966,7 @@
           "channels": "Fox"
         },
         {
-          "date": "2026-11-28T05:00Z",
+          "date": "2026-11-28T21:15Z",
           "opponent": "Rutgers",
           "opponent_location": "Rutgers",
           "opponent_id": "164",
@@ -2263,7 +2263,7 @@
             },
             {
               "label": "Possession Time Seconds",
-              "value": "17001"
+              "value": "17156"
             },
             {
               "label": "Red Zone Field Goal Percentage",
