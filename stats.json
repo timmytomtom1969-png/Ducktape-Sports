@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T15:51:25.074569+00:00",
+  "updated": "2026-11-17T19:59:01.023265+00:00",
   "teams": {
     "pistons": {
       "record": "8-4",
@@ -744,15 +744,15 @@
             },
             {
               "label": "Shootout Attempts",
-              "value": "0"
+              "value": "3"
             },
             {
               "label": "Shootout Goals",
-              "value": "0"
+              "value": "1"
             },
             {
               "label": "Shootout Shot Percentage",
-              "value": "0.0"
+              "value": "33.3"
             },
             {
               "label": "Shooting Percentage",
@@ -788,15 +788,15 @@
             },
             {
               "label": "Shootout Saves",
-              "value": "0"
+              "value": "3"
             },
             {
               "label": "Shootout Shots Against",
-              "value": "0"
+              "value": "3"
             },
             {
               "label": "Shootout Save Percentage",
-              "value": ".000"
+              "value": "1.000"
             },
             {
               "label": "Penalty Minutes",
@@ -1974,7 +1974,7 @@
           "my_score": "",
           "opp_score": "",
           "won": false,
-          "channels": ""
+          "channels": "BTN"
         }
       ],
       "matchup": {
