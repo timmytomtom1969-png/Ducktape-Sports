@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T03:53:03.948049+00:00",
+  "updated": "2026-11-19T11:52:15.394437+00:00",
   "teams": {
     "pistons": {
       "record": "10-4",
@@ -7,7 +7,7 @@
       "stats": [
         {
           "label": "Rebounds Per Game",
-          "value": "44.3"
+          "value": "43.9"
         },
         {
           "label": "Assist To Turnover Ratio",
@@ -15,11 +15,11 @@
         },
         {
           "label": "Fouls Per Game",
-          "value": "23.4"
+          "value": "23.5"
         },
         {
           "label": "Games Played",
-          "value": "13"
+          "value": "14"
         },
         {
           "label": "Games Started",
@@ -35,19 +35,19 @@
         },
         {
           "label": "Rebounds",
-          "value": "576"
+          "value": "614"
         },
         {
           "label": "Rebounds",
-          "value": "576"
+          "value": "614"
         },
         {
           "label": "Free Throw Percentage",
-          "value": "78.8"
+          "value": "79.3"
         },
         {
           "label": "3-Point Field Goal Percentage",
-          "value": "36.0"
+          "value": "37.1"
         },
         {
           "label": "Average Field Goals Made",
@@ -55,39 +55,39 @@
         },
         {
           "label": "Average Field Goals Attempted",
-          "value": "88.6"
+          "value": "87.8"
         },
         {
           "label": "Average 3-Point Field Goals Made",
-          "value": "12.9"
+          "value": "13.2"
         },
         {
           "label": "Average 3-Point Field Goals Attempted",
-          "value": "35.9"
+          "value": "35.6"
         },
         {
           "label": "Average Free Throws Made",
-          "value": "19.5"
+          "value": "19.7"
         },
         {
           "label": "Average Free Throws Attempted",
-          "value": "24.7"
+          "value": "24.9"
         },
         {
           "label": "Points Per Game",
-          "value": "114.8"
+          "value": "115.4"
         },
         {
           "label": "Offensive Rebounds Per Game",
-          "value": "12.2"
+          "value": "12.0"
         },
         {
           "label": "Assists Per Game",
-          "value": "27.9"
+          "value": "28.0"
         },
         {
           "label": "Turnovers Per Game",
-          "value": "13.2"
+          "value": "13.4"
         },
         {
           "label": "2-Point Field Goal Percentage",
@@ -95,7 +95,7 @@
         },
         {
           "label": "Scoring Efficiency",
-          "value": "1.296"
+          "value": "1.314"
         },
         {
           "label": "Shooting Efficiency",
@@ -103,91 +103,91 @@
         },
         {
           "label": "Field Goal Percentage",
-          "value": "46.5"
+          "value": "46.9"
         },
         {
           "label": "2-Point Field Goals Made",
-          "value": "368.0"
+          "value": "392.0"
         },
         {
           "label": "2-Point Field Goals Attempted",
-          "value": "685.0"
+          "value": "730.0"
         },
         {
           "label": "Points",
-          "value": "1493"
+          "value": "1615"
         },
         {
           "label": "Offensive Rebounds",
-          "value": "159"
-        },
-        {
-          "label": "Assists",
-          "value": "363"
-        },
-        {
-          "label": "Turnovers",
-          "value": "172"
-        },
-        {
-          "label": "Field Goals Made",
-          "value": "536"
-        },
-        {
-          "label": "Field Goals Attempted",
-          "value": "1152"
-        },
-        {
-          "label": "Free Throws Made",
-          "value": "253"
-        },
-        {
-          "label": "Free Throws Attempted",
-          "value": "321"
-        },
-        {
-          "label": "3-Point Field Goals Made",
           "value": "168"
         },
         {
+          "label": "Assists",
+          "value": "392"
+        },
+        {
+          "label": "Turnovers",
+          "value": "187"
+        },
+        {
+          "label": "Field Goals Made",
+          "value": "577"
+        },
+        {
+          "label": "Field Goals Attempted",
+          "value": "1229"
+        },
+        {
+          "label": "Free Throws Made",
+          "value": "276"
+        },
+        {
+          "label": "Free Throws Attempted",
+          "value": "348"
+        },
+        {
+          "label": "3-Point Field Goals Made",
+          "value": "185"
+        },
+        {
           "label": "3-Point Field Goals Attempted",
-          "value": "467"
+          "value": "499"
         },
         {
           "label": "3-Point Field Goal Percentage",
-          "value": "36.0"
+          "value": "37.1"
         },
         {
           "label": "2-Point Field Goals Made per Game",
-          "value": "28.3"
+          "value": "28.0"
         },
         {
           "label": "2-Point Field Goals Attempted per Game",
-          "value": "52.7"
+          "value": "52.1"
         },
         {
           "label": "Defensive Rebounds Per Game",
-          "value": "32.1"
+          "value": "31.9"
         },
         {
           "label": "Blocks Per Game",
-          "value": "6.2"
+          "value": "6.1"
         },
         {
           "label": "Steals Per Game",
-          "value": "9.5"
+          "value": "9.3"
         },
         {
           "label": "Defensive Rebounds",
-          "value": "417"
+          "value": "446"
         },
         {
           "label": "Steals",
-          "value": "123"
+          "value": "130"
         },
         {
           "label": "Blocks",
-          "value": "80"
+          "value": "85"
         }
       ],
       "leaders": [
@@ -201,7 +201,7 @@
         },
         {
           "name": "Ausar Thompson",
-          "line": "8.7 Rebounds Per Game"
+          "line": "8.5 Rebounds Per Game"
         },
         {
           "name": "Ausar Thompson",
@@ -209,7 +209,7 @@
         },
         {
           "name": "Paul Reed",
-          "line": "3.2 Offensive Rebounds Per Game"
+          "line": "3.1 Offensive Rebounds Per Game"
         }
       ],
       "last_game": {
@@ -269,15 +269,15 @@
             },
             {
               "label": "Assist To Turnover Ratio",
-              "value": "2.1"
+              "value": "2.2"
             },
             {
               "label": "Fouls Per Game",
-              "value": "25.2"
+              "value": "25.0"
             },
             {
               "label": "Games Played",
-              "value": "14"
+              "value": "15"
             },
             {
               "label": "Games Started",
@@ -293,31 +293,31 @@
             },
             {
               "label": "Rebounds",
-              "value": "568"
+              "value": "609"
             },
             {
               "label": "Rebounds",
-              "value": "568"
+              "value": "609"
             },
             {
               "label": "Free Throw Percentage",
-              "value": "71.9"
+              "value": "71.1"
             },
             {
               "label": "3-Point Field Goal Percentage",
-              "value": "33.3"
+              "value": "33.6"
             },
             {
               "label": "Average Field Goals Made",
-              "value": "41.4"
+              "value": "41.2"
             },
             {
               "label": "Average Field Goals Attempted",
-              "value": "90.7"
+              "value": "90.8"
             },
             {
               "label": "Average 3-Point Field Goals Made",
-              "value": "11.9"
+              "value": "12.1"
             },
             {
               "label": "Average 3-Point Field Goals Attempted",
@@ -325,19 +325,19 @@
             },
             {
               "label": "Average Free Throws Made",
-              "value": "18.3"
+              "value": "17.5"
             },
             {
               "label": "Average Free Throws Attempted",
-              "value": "25.4"
+              "value": "24.7"
             },
             {
               "label": "Points Per Game",
-              "value": "112.9"
+              "value": "112.0"
             },
             {
               "label": "Offensive Rebounds Per Game",
-              "value": "13.4"
+              "value": "13.2"
             },
             {
               "label": "Assists Per Game",
@@ -345,15 +345,15 @@
             },
             {
               "label": "Turnovers Per Game",
-              "value": "13.2"
+              "value": "12.8"
             },
             {
               "label": "2-Point Field Goal Percentage",
-              "value": "53.6"
+              "value": "53.0"
             },
             {
               "label": "Scoring Efficiency",
-              "value": "1.245"
+              "value": "1.233"
             },
             {
               "label": "Shooting Efficiency",
@@ -361,63 +361,63 @@
             },
             {
               "label": "Field Goal Percentage",
-              "value": "45.6"
+              "value": "45.4"
             },
             {
               "label": "2-Point Field Goals Made",
-              "value": "412.0"
+              "value": "437.0"
             },
             {
               "label": "2-Point Field Goals Attempted",
-              "value": "768.0"
+              "value": "824.0"
             },
             {
               "label": "Points",
-              "value": "1581"
+              "value": "1680"
             },
             {
               "label": "Offensive Rebounds",
-              "value": "187"
+              "value": "198"
             },
             {
               "label": "Assists",
-              "value": "391"
+              "value": "418"
             },
             {
               "label": "Turnovers",
-              "value": "185"
+              "value": "192"
             },
             {
               "label": "Field Goals Made",
-              "value": "579"
+              "value": "618"
             },
             {
               "label": "Field Goals Attempted",
-              "value": "1270"
+              "value": "1362"
             },
             {
               "label": "Free Throws Made",
-              "value": "256"
+              "value": "263"
             },
             {
               "label": "Free Throws Attempted",
-              "value": "356"
+              "value": "370"
             },
             {
               "label": "3-Point Field Goals Made",
-              "value": "167"
+              "value": "181"
             },
             {
               "label": "3-Point Field Goals Attempted",
-              "value": "502"
+              "value": "538"
             },
             {
               "label": "3-Point Field Goal Percentage",
-              "value": "33.3"
+              "value": "33.6"
             },
             {
               "label": "2-Point Field Goals Made per Game",
-              "value": "29.4"
+              "value": "29.1"
             },
             {
               "label": "2-Point Field Goals Attempted per Game",
@@ -425,27 +425,27 @@
             },
             {
               "label": "Defensive Rebounds Per Game",
-              "value": "27.2"
+              "value": "27.4"
             },
             {
               "label": "Blocks Per Game",
-              "value": "4.5"
+              "value": "4.4"
             },
             {
               "label": "Steals Per Game",
-              "value": "9.9"
+              "value": "9.7"
             },
             {
               "label": "Defensive Rebounds",
-              "value": "381"
+              "value": "411"
             },
             {
               "label": "Steals",
-              "value": "138"
+              "value": "146"
             },
             {
               "label": "Blocks",
-              "value": "63"
+              "value": "66"
             }
           ]
         }
@@ -458,15 +458,15 @@
       "stats": [
         {
           "label": "Games Played",
-          "value": "21"
+          "value": "22"
         },
         {
           "label": "Time On Ice",
-          "value": "7535:34"
+          "value": "7894:57"
         },
         {
           "label": "Time On Ice Per Game",
-          "value": "358:50"
+          "value": "358:51"
         },
         {
           "label": "Plus/Minus Rating",
@@ -478,11 +478,11 @@
         },
         {
           "label": "Shifts",
-          "value": "8041"
+          "value": "8401"
         },
         {
           "label": "Losses",
-          "value": "10"
+          "value": "11"
         },
         {
           "label": "Wins",
@@ -490,19 +490,19 @@
         },
         {
           "label": "Goals",
-          "value": "55"
+          "value": "56"
         },
         {
           "label": "Assists",
-          "value": "94"
+          "value": "96"
         },
         {
           "label": "Faceoffs Won",
-          "value": "584"
+          "value": "609"
         },
         {
           "label": "Faceoffs Lost",
-          "value": "602"
+          "value": "639"
         },
         {
           "label": "Game-Winning Goals",
@@ -510,7 +510,7 @@
         },
         {
           "label": "Points",
-          "value": "149"
+          "value": "152"
         },
         {
           "label": "Power Play Goals",
@@ -530,7 +530,7 @@
         },
         {
           "label": "Shots",
-          "value": "598"
+          "value": "619"
         },
         {
           "label": "Shootout Attempts",
@@ -546,19 +546,19 @@
         },
         {
           "label": "Shooting Percentage",
-          "value": "9.2"
+          "value": "9.0"
         },
         {
           "label": "Faceoff Win Percent",
-          "value": "49.2"
+          "value": "48.8"
         },
         {
           "label": "Goals Against Average",
-          "value": "2.95"
+          "value": "3.00"
         },
         {
           "label": "Saves",
-          "value": "489"
+          "value": "516"
         },
         {
           "label": "Save Percentage",
@@ -566,11 +566,11 @@
         },
         {
           "label": "Goals Against",
-          "value": "62"
+          "value": "66"
         },
         {
           "label": "Shots Against",
-          "value": "551"
+          "value": "582"
         },
         {
           "label": "Overtime Losses",
@@ -590,7 +590,7 @@
         },
         {
           "label": "Penalty Minutes",
-          "value": "181"
+          "value": "183"
         }
       ],
       "leaders": [
@@ -1573,7 +1573,7 @@
           "my_score": "",
           "opp_score": "",
           "won": false,
-          "channels": "CBS"
+          "channels": "CBS, ERADM"
         },
         {
           "date": "2026-11-28T17:00Z",
