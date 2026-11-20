@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T03:50:08.338425+00:00",
+  "updated": "2026-11-20T11:51:02.165005+00:00",
   "teams": {
     "pistons": {
       "record": "10-4",
@@ -668,15 +668,15 @@
           "stats": [
             {
               "label": "Games Played",
-              "value": "20"
+              "value": "21"
             },
             {
               "label": "Time On Ice",
-              "value": "7156:46"
+              "value": "7521:22"
             },
             {
               "label": "Time On Ice Per Game",
-              "value": "357:50"
+              "value": "358:09"
             },
             {
               "label": "Plus/Minus Rating",
@@ -688,7 +688,7 @@
             },
             {
               "label": "Shifts",
-              "value": "7600"
+              "value": "8002"
             },
             {
               "label": "Losses",
@@ -700,19 +700,19 @@
             },
             {
               "label": "Goals",
-              "value": "64"
+              "value": "67"
             },
             {
               "label": "Assists",
-              "value": "105"
+              "value": "108"
             },
             {
               "label": "Faceoffs Won",
-              "value": "593"
+              "value": "617"
             },
             {
               "label": "Faceoffs Lost",
-              "value": "482"
+              "value": "506"
             },
             {
               "label": "Game-Winning Goals",
@@ -720,7 +720,7 @@
             },
             {
               "label": "Points",
-              "value": "169"
+              "value": "175"
             },
             {
               "label": "Power Play Goals",
@@ -732,7 +732,7 @@
             },
             {
               "label": "Short Handed Goals",
-              "value": "2"
+              "value": "3"
             },
             {
               "label": "Short Handed Assists",
@@ -740,7 +740,7 @@
             },
             {
               "label": "Shots",
-              "value": "526"
+              "value": "551"
             },
             {
               "label": "Shootout Attempts",
@@ -760,31 +760,31 @@
             },
             {
               "label": "Faceoff Win Percent",
-              "value": "55.2"
+              "value": "54.9"
             },
             {
               "label": "Goals Against Average",
-              "value": "2.75"
+              "value": "2.81"
             },
             {
               "label": "Saves",
-              "value": "527"
+              "value": "545"
             },
             {
               "label": "Save Percentage",
-              "value": ".913"
+              "value": ".910"
             },
             {
               "label": "Goals Against",
-              "value": "55"
+              "value": "59"
             },
             {
               "label": "Shots Against",
-              "value": "582"
+              "value": "604"
             },
             {
               "label": "Overtime Losses",
-              "value": "4"
+              "value": "5"
             },
             {
               "label": "Shootout Saves",
@@ -800,7 +800,7 @@
             },
             {
               "label": "Penalty Minutes",
-              "value": "245"
+              "value": "249"
             }
           ]
         }
