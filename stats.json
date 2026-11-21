@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-20T23:43:13.339633+00:00",
+  "updated": "2026-11-21T03:48:01.226585+00:00",
   "teams": {
     "pistons": {
-      "record": "10-4",
+      "record": "10-5",
       "standing": "1st in Central Division",
       "stats": [
         {
@@ -213,28 +213,17 @@
         }
       ],
       "last_game": {
-        "date": "2026-11-19T01:00Z",
-        "opponent": "Pelicans",
-        "opponent_location": "New Orleans",
-        "opponent_id": "3",
-        "home": false,
-        "my_score": "122",
-        "opp_score": "109",
-        "won": true,
-        "channels": "GCSEN, Pelicans.com"
+        "date": "2026-11-21T00:30Z",
+        "opponent": "Raptors",
+        "opponent_location": "Toronto",
+        "opponent_id": "28",
+        "home": true,
+        "my_score": "102",
+        "opp_score": "105",
+        "won": false,
+        "channels": "Prime Video"
       },
       "next_games": [
-        {
-          "date": "2026-11-21T00:30Z",
-          "opponent": "Raptors",
-          "opponent_location": "Toronto",
-          "opponent_id": "28",
-          "home": true,
-          "my_score": "",
-          "opp_score": "",
-          "won": false,
-          "channels": "Prime Video"
-        },
         {
           "date": "2026-11-22T20:30Z",
           "opponent": "Hawks",
@@ -256,24 +245,35 @@
           "opp_score": "",
           "won": false,
           "channels": ""
+        },
+        {
+          "date": "2026-11-28T00:30Z",
+          "opponent": "Bucks",
+          "opponent_location": "Milwaukee",
+          "opponent_id": "15",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false,
+          "channels": "MyMi, Bucks App"
         }
       ],
       "matchup": {
         "opponent": {
-          "record": "5-10",
-          "standing": "4th in Atlantic Division",
+          "record": "10-6",
+          "standing": "4th in Eastern Conference Division",
           "stats": [
             {
               "label": "Rebounds Per Game",
-              "value": "40.6"
+              "value": "45.2"
             },
             {
               "label": "Assist To Turnover Ratio",
-              "value": "2.2"
+              "value": "2.1"
             },
             {
               "label": "Fouls Per Game",
-              "value": "25.0"
+              "value": "21.8"
             },
             {
               "label": "Games Played",
@@ -293,159 +293,159 @@
             },
             {
               "label": "Rebounds",
-              "value": "609"
+              "value": "678"
             },
             {
               "label": "Rebounds",
-              "value": "609"
+              "value": "678"
             },
             {
               "label": "Free Throw Percentage",
-              "value": "71.1"
+              "value": "75.9"
             },
             {
               "label": "3-Point Field Goal Percentage",
-              "value": "33.6"
+              "value": "34.3"
             },
             {
               "label": "Average Field Goals Made",
-              "value": "41.2"
+              "value": "43.5"
             },
             {
               "label": "Average Field Goals Attempted",
-              "value": "90.8"
+              "value": "96.6"
             },
             {
               "label": "Average 3-Point Field Goals Made",
-              "value": "12.1"
+              "value": "14.9"
             },
             {
               "label": "Average 3-Point Field Goals Attempted",
-              "value": "35.9"
+              "value": "43.5"
             },
             {
               "label": "Average Free Throws Made",
-              "value": "17.5"
+              "value": "15.7"
             },
             {
               "label": "Average Free Throws Attempted",
-              "value": "24.7"
+              "value": "20.7"
             },
             {
               "label": "Points Per Game",
-              "value": "112.0"
+              "value": "117.7"
             },
             {
               "label": "Offensive Rebounds Per Game",
-              "value": "13.2"
+              "value": "13.9"
             },
             {
               "label": "Assists Per Game",
-              "value": "27.9"
+              "value": "30.9"
             },
             {
               "label": "Turnovers Per Game",
-              "value": "12.8"
+              "value": "15.0"
             },
             {
               "label": "2-Point Field Goal Percentage",
-              "value": "53.0"
+              "value": "53.9"
             },
             {
               "label": "Scoring Efficiency",
-              "value": "1.233"
+              "value": "1.219"
             },
             {
               "label": "Shooting Efficiency",
-              "value": "0.52"
+              "value": "0.53"
             },
             {
               "label": "Field Goal Percentage",
-              "value": "45.4"
+              "value": "45.1"
             },
             {
               "label": "2-Point Field Goals Made",
-              "value": "437.0"
+              "value": "429.0"
             },
             {
               "label": "2-Point Field Goals Attempted",
-              "value": "824.0"
+              "value": "796.0"
             },
             {
               "label": "Points",
-              "value": "1680"
+              "value": "1766"
             },
             {
               "label": "Offensive Rebounds",
-              "value": "198"
+              "value": "209"
             },
             {
               "label": "Assists",
-              "value": "418"
+              "value": "464"
             },
             {
               "label": "Turnovers",
-              "value": "192"
+              "value": "225"
             },
             {
               "label": "Field Goals Made",
-              "value": "618"
+              "value": "653"
             },
             {
               "label": "Field Goals Attempted",
-              "value": "1362"
+              "value": "1449"
             },
             {
               "label": "Free Throws Made",
-              "value": "263"
+              "value": "236"
             },
             {
               "label": "Free Throws Attempted",
-              "value": "370"
+              "value": "311"
             },
             {
               "label": "3-Point Field Goals Made",
-              "value": "181"
+              "value": "224"
             },
             {
               "label": "3-Point Field Goals Attempted",
-              "value": "538"
+              "value": "653"
             },
             {
               "label": "3-Point Field Goal Percentage",
-              "value": "33.6"
+              "value": "34.3"
             },
             {
               "label": "2-Point Field Goals Made per Game",
-              "value": "29.1"
+              "value": "28.6"
             },
             {
               "label": "2-Point Field Goals Attempted per Game",
-              "value": "54.9"
+              "value": "53.1"
             },
             {
               "label": "Defensive Rebounds Per Game",
-              "value": "27.4"
+              "value": "31.3"
             },
             {
               "label": "Blocks Per Game",
-              "value": "4.4"
+              "value": "3.9"
             },
             {
               "label": "Steals Per Game",
-              "value": "9.7"
+              "value": "10.3"
             },
             {
               "label": "Defensive Rebounds",
-              "value": "411"
+              "value": "469"
             },
             {
               "label": "Steals",
-              "value": "146"
+              "value": "154"
             },
             {
               "label": "Blocks",
-              "value": "66"
+              "value": "58"
             }
           ]
         }
@@ -1980,7 +1980,7 @@
       "matchup": {
         "team_wins": 3,
         "opp_wins": 5,
-        "ties": 0,
+        "ties": 1,
         "opponent": {
           "record": "7-3",
           "standing": "3rd in Big Ten",
