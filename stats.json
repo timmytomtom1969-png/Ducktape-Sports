@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T19:44:23.468621+00:00",
+  "updated": "2026-11-21T23:34:12.224842+00:00",
   "teams": {
     "pistons": {
       "record": "10-5",
@@ -1532,7 +1532,7 @@
     },
     "michigan": {
       "record": "5-5",
-      "standing": "15th in Big Ten",
+      "standing": "14th in Big Ten",
       "stats": [
         {
           "label": "totalYards",
@@ -1590,7 +1590,7 @@
       "matchup": {
         "team_wins": 8,
         "opp_wins": 3,
-        "ties": 0,
+        "ties": 1,
         "opponent": {
           "record": "10-0",
           "standing": "1st in Big Ten",
