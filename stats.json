@@ -1,8 +1,8 @@
 {
-  "updated": "2026-11-22T20:58:12.419428+00:00",
+  "updated": "2026-11-23T03:37:16.477306+00:00",
   "teams": {
     "pistons": {
-      "record": "10-5",
+      "record": "10-6",
       "standing": "1st in Central Division",
       "stats": [
         {
@@ -213,28 +213,17 @@
         }
       ],
       "last_game": {
-        "date": "2026-11-21T00:30Z",
-        "opponent": "Raptors",
-        "opponent_location": "Toronto",
-        "opponent_id": "28",
-        "home": true,
-        "my_score": "102",
-        "opp_score": "105",
+        "date": "2026-11-22T20:30Z",
+        "opponent": "Hawks",
+        "opponent_location": "Atlanta",
+        "opponent_id": "1",
+        "home": false,
+        "my_score": "97",
+        "opp_score": "107",
         "won": false,
-        "channels": "Prime Video"
+        "channels": ""
       },
       "next_games": [
-        {
-          "date": "2026-11-22T20:30Z",
-          "opponent": "Hawks",
-          "opponent_location": "Atlanta",
-          "opponent_id": "1",
-          "home": false,
-          "my_score": "",
-          "opp_score": "",
-          "won": false,
-          "channels": ""
-        },
         {
           "date": "2026-11-25T00:00Z",
           "opponent": "Magic",
@@ -256,28 +245,39 @@
           "opp_score": "",
           "won": false,
           "channels": "MyMi, Bucks App"
+        },
+        {
+          "date": "2026-11-29T23:00Z",
+          "opponent": "Magic",
+          "opponent_location": "Orlando",
+          "opponent_id": "19",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false,
+          "channels": ""
         }
       ],
       "matchup": {
         "opponent": {
-          "record": "10-6",
-          "standing": "4th in Eastern Conference Division",
+          "record": "7-9",
+          "standing": "8th in Eastern Conference Division",
           "stats": [
             {
               "label": "Rebounds Per Game",
-              "value": "44.7"
+              "value": "42.6"
             },
             {
               "label": "Assist To Turnover Ratio",
-              "value": "2.1"
+              "value": "1.7"
             },
             {
               "label": "Fouls Per Game",
-              "value": "21.6"
+              "value": "22.5"
             },
             {
               "label": "Games Played",
-              "value": "16"
+              "value": "15"
             },
             {
               "label": "Games Started",
@@ -293,159 +293,159 @@
             },
             {
               "label": "Rebounds",
-              "value": "715"
+              "value": "639"
             },
             {
               "label": "Rebounds",
-              "value": "715"
+              "value": "639"
             },
             {
               "label": "Free Throw Percentage",
-              "value": "76.1"
+              "value": "76.5"
             },
             {
               "label": "3-Point Field Goal Percentage",
-              "value": "34.5"
+              "value": "35.8"
             },
             {
               "label": "Average Field Goals Made",
-              "value": "43.5"
+              "value": "39.0"
             },
             {
               "label": "Average Field Goals Attempted",
-              "value": "95.8"
+              "value": "85.1"
             },
             {
               "label": "Average 3-Point Field Goals Made",
-              "value": "14.8"
+              "value": "14.5"
             },
             {
               "label": "Average 3-Point Field Goals Attempted",
-              "value": "42.9"
+              "value": "40.5"
             },
             {
               "label": "Average Free Throws Made",
-              "value": "15.5"
+              "value": "17.1"
             },
             {
               "label": "Average Free Throws Attempted",
-              "value": "20.4"
+              "value": "22.4"
             },
             {
               "label": "Points Per Game",
-              "value": "117.3"
+              "value": "109.6"
             },
             {
               "label": "Offensive Rebounds Per Game",
-              "value": "13.4"
+              "value": "10.9"
             },
             {
               "label": "Assists Per Game",
-              "value": "30.8"
+              "value": "26.5"
             },
             {
               "label": "Turnovers Per Game",
-              "value": "14.8"
+              "value": "15.5"
             },
             {
               "label": "2-Point Field Goal Percentage",
-              "value": "54.2"
+              "value": "54.9"
             },
             {
               "label": "Scoring Efficiency",
-              "value": "1.224"
+              "value": "1.287"
             },
             {
               "label": "Shooting Efficiency",
-              "value": "0.53"
+              "value": "0.54"
             },
             {
               "label": "Field Goal Percentage",
-              "value": "45.4"
+              "value": "45.8"
             },
             {
               "label": "2-Point Field Goals Made",
-              "value": "459.0"
+              "value": "368.0"
             },
             {
               "label": "2-Point Field Goals Attempted",
-              "value": "847.0"
+              "value": "670.0"
             },
             {
               "label": "Points",
-              "value": "1877"
+              "value": "1644"
             },
             {
               "label": "Offensive Rebounds",
-              "value": "215"
+              "value": "163"
             },
             {
               "label": "Assists",
-              "value": "492"
+              "value": "398"
             },
             {
               "label": "Turnovers",
-              "value": "236"
+              "value": "232"
             },
             {
               "label": "Field Goals Made",
-              "value": "696"
+              "value": "585"
             },
             {
               "label": "Field Goals Attempted",
-              "value": "1533"
+              "value": "1277"
             },
             {
               "label": "Free Throws Made",
-              "value": "248"
+              "value": "257"
             },
             {
               "label": "Free Throws Attempted",
-              "value": "326"
+              "value": "336"
             },
             {
               "label": "3-Point Field Goals Made",
-              "value": "237"
+              "value": "217"
             },
             {
               "label": "3-Point Field Goals Attempted",
-              "value": "686"
+              "value": "607"
             },
             {
               "label": "3-Point Field Goal Percentage",
-              "value": "34.5"
+              "value": "35.7"
             },
             {
               "label": "2-Point Field Goals Made per Game",
-              "value": "28.7"
+              "value": "24.5"
             },
             {
               "label": "2-Point Field Goals Attempted per Game",
-              "value": "52.9"
+              "value": "44.7"
             },
             {
               "label": "Defensive Rebounds Per Game",
-              "value": "31.3"
+              "value": "31.7"
             },
             {
               "label": "Blocks Per Game",
-              "value": "3.8"
+              "value": "4.3"
             },
             {
               "label": "Steals Per Game",
-              "value": "10.4"
+              "value": "7.6"
             },
             {
               "label": "Defensive Rebounds",
-              "value": "500"
+              "value": "476"
             },
             {
               "label": "Steals",
-              "value": "166"
+              "value": "114"
             },
             {
               "label": "Blocks",
-              "value": "61"
+              "value": "65"
             }
           ]
         }
@@ -808,7 +808,7 @@
       "logo": "https://a.espncdn.com/i/teamlogos/nhl/500-dark/det.png"
     },
     "lions": {
-      "record": "7-2",
+      "record": "8-2",
       "standing": "2nd in National Football Conference",
       "stats": [
         {
@@ -1155,28 +1155,17 @@
         }
       ],
       "last_game": {
-        "date": "2026-11-15T14:30Z",
-        "opponent": "Patriots",
-        "opponent_location": "New England",
-        "opponent_id": "17",
+        "date": "2026-11-22T18:00Z",
+        "opponent": "Buccaneers",
+        "opponent_location": "Tampa Bay",
+        "opponent_id": "27",
         "home": true,
-        "my_score": "35",
-        "opp_score": "10",
+        "my_score": "31",
+        "opp_score": "21",
         "won": true,
         "channels": "Fox"
       },
       "next_games": [
-        {
-          "date": "2026-11-22T18:00Z",
-          "opponent": "Buccaneers",
-          "opponent_location": "Tampa Bay",
-          "opponent_id": "27",
-          "home": true,
-          "my_score": "",
-          "opp_score": "",
-          "won": false,
-          "channels": "Fox"
-        },
         {
           "date": "2026-11-26T18:00Z",
           "opponent": "Bears",
@@ -1198,24 +1187,35 @@
           "opp_score": "",
           "won": false,
           "channels": "CBS"
+        },
+        {
+          "date": "2026-12-13T18:00Z",
+          "opponent": "Titans",
+          "opponent_location": "Tennessee",
+          "opponent_id": "10",
+          "home": true,
+          "my_score": "",
+          "opp_score": "",
+          "won": false,
+          "channels": "Fox"
         }
       ],
       "matchup": {
         "opponent": {
-          "record": "3-6",
-          "standing": "12th in National Football Conference",
+          "record": "8-2",
+          "standing": "5th in National Football Conference",
           "stats": [
             {
               "label": "Completion Percentage",
-              "value": "60.8"
+              "value": "67.6"
             },
             {
               "label": "Completions",
-              "value": "146"
+              "value": "211"
             },
             {
               "label": "Interception Percentage",
-              "value": "3.80"
+              "value": "2.90"
             },
             {
               "label": "Interceptions",
@@ -1223,51 +1223,51 @@
             },
             {
               "label": "Longest Pass",
-              "value": "64"
+              "value": "58"
             },
             {
               "label": "Net Passing Yards",
-              "value": "1,277"
+              "value": "2,169"
             },
             {
               "label": "Net Passing Yards Per Game",
-              "value": "141.9"
+              "value": "241.0"
             },
             {
               "label": "Passing Attempts",
-              "value": "240"
+              "value": "312"
             },
             {
               "label": "Passing Touchdown %",
-              "value": "2.50"
+              "value": "3.20"
             },
             {
               "label": "Passing Touchdowns",
-              "value": "6"
+              "value": "10"
             },
             {
               "label": "Passer Rating",
-              "value": "70.2"
+              "value": "88.0"
             },
             {
               "label": "Total Sacks",
-              "value": "27"
+              "value": "20"
             },
             {
               "label": "Sack Yards Lost",
-              "value": "146"
+              "value": "141"
             },
             {
               "label": "Yards Per Pass Attempt",
-              "value": "5.9"
+              "value": "7.4"
             },
             {
               "label": "Passing Yards",
-              "value": "1,423"
+              "value": "2,310"
             },
             {
               "label": "Passing Fumbles Lost",
-              "value": "1"
+              "value": "4"
             },
             {
               "label": "Team Games Played",
@@ -1275,71 +1275,71 @@
             },
             {
               "label": "Yards Per Game",
-              "value": "322.0"
+              "value": "398.7"
             },
             {
               "label": "Total Points Per Game",
-              "value": "22.4"
+              "value": "26.8"
             },
             {
               "label": "Total Points",
-              "value": "202"
+              "value": "241"
             },
             {
               "label": "Total Touchdowns",
-              "value": "19"
+              "value": "28"
             },
             {
               "label": "Passing Yards Per Game",
-              "value": "158.1"
+              "value": "256.7"
             },
             {
               "label": "Comp-Att",
-              "value": "146-240"
+              "value": "211-312"
             },
             {
               "label": "Sacks-Yards Lost",
-              "value": "27-146"
+              "value": "20-141"
             },
             {
               "label": "Rushing Attempts",
-              "value": "294"
+              "value": "303"
             },
             {
               "label": "Rushing Yards",
-              "value": "1,475"
+              "value": "1,278"
             },
             {
               "label": "Yards Per Rush Attempt",
-              "value": "5.0"
+              "value": "4.2"
             },
             {
               "label": "Long Rushing",
-              "value": "72"
+              "value": "61"
             },
             {
               "label": "20+ Yard Rushing Plays",
-              "value": "11"
-            },
-            {
-              "label": "Rushing Touchdowns",
-              "value": "11"
-            },
-            {
-              "label": "Rushing Yards Per Game",
-              "value": "163.9"
-            },
-            {
-              "label": "Rushing Fumbles",
               "value": "6"
             },
             {
+              "label": "Rushing Touchdowns",
+              "value": "17"
+            },
+            {
+              "label": "Rushing Yards Per Game",
+              "value": "142.0"
+            },
+            {
+              "label": "Rushing Fumbles",
+              "value": "4"
+            },
+            {
               "label": "Rushing Fumbles Lost",
-              "value": "2"
+              "value": "3"
             },
             {
               "label": "Rushing 1st downs",
-              "value": "80"
+              "value": "67"
             },
             {
               "label": "Team Games Played",
@@ -1347,71 +1347,71 @@
             },
             {
               "label": "Total Yards",
-              "value": "2,898"
+              "value": "3,588"
             },
             {
               "label": "Total Offensive Plays",
-              "value": "561"
+              "value": "635"
             },
             {
               "label": "Total Points Per Game",
-              "value": "22.4"
+              "value": "26.8"
             },
             {
               "label": "Total Points",
-              "value": "202"
+              "value": "241"
             },
             {
               "label": "Total Touchdowns",
-              "value": "19"
+              "value": "28"
             },
             {
               "label": "Receptions",
-              "value": "146"
+              "value": "211"
             },
             {
               "label": "Receiving Targets",
-              "value": "231"
+              "value": "294"
             },
             {
               "label": "Receiving Yards",
-              "value": "1,423"
+              "value": "2,310"
             },
             {
               "label": "Receiving Yards",
-              "value": "1,423"
+              "value": "2,310"
             },
             {
               "label": "Receiving Touchdowns",
-              "value": "6"
+              "value": "10"
             },
             {
               "label": "Long Reception",
-              "value": "64"
+              "value": "58"
             },
             {
               "label": "20+ Yard Receiving Plays",
-              "value": "16"
+              "value": "35"
             },
             {
               "label": "Receiving Yards Per Game",
-              "value": "158.1"
+              "value": "256.7"
             },
             {
               "label": "Receiving Fumbles",
-              "value": "2"
+              "value": "4"
             },
             {
               "label": "Receiving Fumbles Lost",
-              "value": "1"
+              "value": "4"
             },
             {
               "label": "Receiving Yards After Catch",
-              "value": "845"
+              "value": "1196"
             },
             {
               "label": "Receiving First Downs",
-              "value": "67"
+              "value": "108"
             },
             {
               "label": "Team Games Played",
@@ -1419,111 +1419,111 @@
             },
             {
               "label": "Yards Per Reception",
-              "value": "9.7"
+              "value": "10.9"
             },
             {
               "label": "Total Points Per Game",
-              "value": "22.4"
+              "value": "26.8"
             },
             {
               "label": "Total Points",
-              "value": "202"
+              "value": "241"
             },
             {
               "label": "Total Touchdowns",
-              "value": "19"
+              "value": "28"
             },
             {
               "label": "Total 1st downs",
-              "value": "162"
+              "value": "196"
             },
             {
               "label": "Rushing 1st downs",
-              "value": "80"
-            },
-            {
-              "label": "Passing 1st downs",
               "value": "67"
             },
             {
+              "label": "Passing 1st downs",
+              "value": "108"
+            },
+            {
               "label": "1st downs by penalty",
-              "value": "15"
-            },
-            {
-              "label": "Third Down Conversions",
-              "value": "45"
-            },
-            {
-              "label": "Third Down Attempts",
-              "value": "124"
-            },
-            {
-              "label": "3rd down %",
-              "value": "36.29"
-            },
-            {
-              "label": "Fourth Down Conversions",
-              "value": "4"
-            },
-            {
-              "label": "First Downs Attempts",
-              "value": "12"
-            },
-            {
-              "label": "4th down %",
-              "value": "33.33"
-            },
-            {
-              "label": "Total Penalties",
-              "value": "63"
-            },
-            {
-              "label": "Total Penalty Yards",
-              "value": "449"
-            },
-            {
-              "label": "Possession Time Seconds",
-              "value": "17630"
-            },
-            {
-              "label": "Red Zone Field Goal Percentage",
-              "value": "38.71"
-            },
-            {
-              "label": "Red Zone Scoring Percentage",
-              "value": "87.10"
-            },
-            {
-              "label": "Red Zone Efficiency Percentage",
-              "value": "64.98"
-            },
-            {
-              "label": "Red Zone Touchdown Percentage",
-              "value": "48.39"
-            },
-            {
-              "label": "Total Takeaways",
               "value": "21"
             },
             {
+              "label": "Third Down Conversions",
+              "value": "58"
+            },
+            {
+              "label": "Third Down Attempts",
+              "value": "128"
+            },
+            {
+              "label": "3rd down %",
+              "value": "45.31"
+            },
+            {
+              "label": "Fourth Down Conversions",
+              "value": "11"
+            },
+            {
+              "label": "First Downs Attempts",
+              "value": "18"
+            },
+            {
+              "label": "4th down %",
+              "value": "61.11"
+            },
+            {
+              "label": "Total Penalties",
+              "value": "72"
+            },
+            {
+              "label": "Total Penalty Yards",
+              "value": "570"
+            },
+            {
+              "label": "Possession Time Seconds",
+              "value": "18641"
+            },
+            {
+              "label": "Red Zone Field Goal Percentage",
+              "value": "18.42"
+            },
+            {
+              "label": "Red Zone Scoring Percentage",
+              "value": "73.68"
+            },
+            {
+              "label": "Red Zone Efficiency Percentage",
+              "value": "63.16"
+            },
+            {
+              "label": "Red Zone Touchdown Percentage",
+              "value": "55.26"
+            },
+            {
+              "label": "Total Takeaways",
+              "value": "13"
+            },
+            {
               "label": "Total Giveaways",
-              "value": "14"
+              "value": "17"
             },
             {
               "label": "Turnover Ratio",
-              "value": "7"
+              "value": "-4"
             },
             {
               "label": "Fumbles Lost",
-              "value": "5"
+              "value": "8"
             },
             {
               "label": "3rd down efficiency",
-              "value": "45-124"
+              "value": "58-128"
             },
             {
               "label": "4th down efficiency",
-              "value": "4-12"
+              "value": "11-18"
             }
           ]
         }
