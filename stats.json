@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T02:04:08.856458+00:00",
+  "updated": "2026-11-24T13:26:52.193343+00:00",
   "teams": {
     "pistons": {
       "record": "10-6",
@@ -454,7 +454,7 @@
     },
     "wings": {
       "record": "8-12",
-      "standing": "13th in Eastern Conference",
+      "standing": "14th in Eastern Conference",
       "stats": [
         {
           "label": "Games Played",
@@ -498,11 +498,11 @@
         },
         {
           "label": "Faceoffs Won",
-          "value": "629"
+          "value": "628"
         },
         {
           "label": "Faceoffs Lost",
-          "value": "665"
+          "value": "666"
         },
         {
           "label": "Game-Winning Goals",
@@ -530,7 +530,7 @@
         },
         {
           "label": "Shots",
-          "value": "640"
+          "value": "641"
         },
         {
           "label": "Shootout Attempts",
@@ -546,11 +546,11 @@
         },
         {
           "label": "Shooting Percentage",
-          "value": "9.1"
+          "value": "9.0"
         },
         {
           "label": "Faceoff Win Percent",
-          "value": "48.6"
+          "value": "48.5"
         },
         {
           "label": "Goals Against Average",
@@ -558,7 +558,7 @@
         },
         {
           "label": "Saves",
-          "value": "534"
+          "value": "535"
         },
         {
           "label": "Save Percentage",
@@ -570,7 +570,7 @@
         },
         {
           "label": "Shots Against",
-          "value": "603"
+          "value": "604"
         },
         {
           "label": "Overtime Losses",
@@ -740,7 +740,7 @@
             },
             {
               "label": "Shots",
-              "value": "586"
+              "value": "589"
             },
             {
               "label": "Shootout Attempts",
@@ -756,7 +756,7 @@
             },
             {
               "label": "Shooting Percentage",
-              "value": "12.5"
+              "value": "12.4"
             },
             {
               "label": "Faceoff Win Percent",
