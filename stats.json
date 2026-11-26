@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T12:04:29.738477+00:00",
+  "updated": "2026-11-26T20:00:07.846789+00:00",
   "teams": {
     "pistons": {
       "record": "11-6",
@@ -1535,20 +1535,324 @@
       "standing": "12th in Big Ten",
       "stats": [
         {
-          "label": "totalYards",
-          "value": "3256"
+          "label": "Completion Percentage",
+          "value": "57.6"
         },
         {
-          "label": "rushingYards",
-          "value": "1493"
+          "label": "Completions",
+          "value": "152"
         },
         {
-          "label": "turnovers",
+          "label": "Interception Percentage",
+          "value": "3.40"
+        },
+        {
+          "label": "Interceptions",
+          "value": "9"
+        },
+        {
+          "label": "Longest Pass",
+          "value": "49"
+        },
+        {
+          "label": "Net Passing Yards",
+          "value": "1,763"
+        },
+        {
+          "label": "Net Passing Yards Per Game",
+          "value": "160.3"
+        },
+        {
+          "label": "Passing Attempts",
+          "value": "264"
+        },
+        {
+          "label": "Passing Touchdown %",
+          "value": "3.00"
+        },
+        {
+          "label": "Passing Touchdowns",
+          "value": "8"
+        },
+        {
+          "label": "Passer Rating",
+          "value": "117.1"
+        },
+        {
+          "label": "Total Sacks",
+          "value": "26"
+        },
+        {
+          "label": "Sack Yards Lost",
+          "value": "159"
+        },
+        {
+          "label": "Yards Per Pass Attempt",
+          "value": "6.7"
+        },
+        {
+          "label": "Passing Yards",
+          "value": "1,763"
+        },
+        {
+          "label": "Passing Fumbles Lost",
+          "value": "0"
+        },
+        {
+          "label": "Team Games Played",
+          "value": "11"
+        },
+        {
+          "label": "Yards Per Game",
+          "value": "296.0"
+        },
+        {
+          "label": "Total Points Per Game",
+          "value": "18.3"
+        },
+        {
+          "label": "Total Points",
+          "value": "201"
+        },
+        {
+          "label": "Total Touchdowns",
+          "value": "25"
+        },
+        {
+          "label": "Passing Yards Per Game",
+          "value": "160.3"
+        },
+        {
+          "label": "Comp-Att",
+          "value": "152-264"
+        },
+        {
+          "label": "Sacks-Yards Lost",
+          "value": "26-159"
+        },
+        {
+          "label": "Rushing Attempts",
+          "value": "407"
+        },
+        {
+          "label": "Rushing Yards",
+          "value": "1,493"
+        },
+        {
+          "label": "Yards Per Rush Attempt",
+          "value": "3.7"
+        },
+        {
+          "label": "Long Rushing",
+          "value": "70"
+        },
+        {
+          "label": "20+ Yard Rushing Plays",
+          "value": "0"
+        },
+        {
+          "label": "Rushing Touchdowns",
+          "value": "15"
+        },
+        {
+          "label": "Rushing Yards Per Game",
+          "value": "135.7"
+        },
+        {
+          "label": "Rushing Fumbles",
+          "value": "0"
+        },
+        {
+          "label": "Rushing Fumbles Lost",
+          "value": "0"
+        },
+        {
+          "label": "Rushing 1st downs",
+          "value": "78"
+        },
+        {
+          "label": "Team Games Played",
+          "value": "11"
+        },
+        {
+          "label": "Total Yards",
+          "value": "3,256"
+        },
+        {
+          "label": "Total Offensive Plays",
+          "value": "697"
+        },
+        {
+          "label": "Total Points Per Game",
+          "value": "18.3"
+        },
+        {
+          "label": "Total Points",
+          "value": "201"
+        },
+        {
+          "label": "Total Touchdowns",
+          "value": "25"
+        },
+        {
+          "label": "Receptions",
+          "value": "152"
+        },
+        {
+          "label": "Receiving Targets",
+          "value": "0"
+        },
+        {
+          "label": "Receiving Yards",
+          "value": "1,763"
+        },
+        {
+          "label": "Receiving Yards",
+          "value": "1,763"
+        },
+        {
+          "label": "Receiving Touchdowns",
+          "value": "8"
+        },
+        {
+          "label": "Long Reception",
+          "value": "49"
+        },
+        {
+          "label": "20+ Yard Receiving Plays",
+          "value": "0"
+        },
+        {
+          "label": "Receiving Yards Per Game",
+          "value": "160.3"
+        },
+        {
+          "label": "Receiving Fumbles",
+          "value": "0"
+        },
+        {
+          "label": "Receiving Fumbles Lost",
+          "value": "0"
+        },
+        {
+          "label": "Receiving Yards After Catch",
+          "value": "707"
+        },
+        {
+          "label": "Receiving First Downs",
+          "value": "83"
+        },
+        {
+          "label": "Team Games Played",
+          "value": "11"
+        },
+        {
+          "label": "Yards Per Reception",
+          "value": "11.6"
+        },
+        {
+          "label": "Total Points Per Game",
+          "value": "18.3"
+        },
+        {
+          "label": "Total Points",
+          "value": "201"
+        },
+        {
+          "label": "Total Touchdowns",
+          "value": "25"
+        },
+        {
+          "label": "Total 1st downs",
+          "value": "179"
+        },
+        {
+          "label": "Rushing 1st downs",
+          "value": "78"
+        },
+        {
+          "label": "Passing 1st downs",
+          "value": "83"
+        },
+        {
+          "label": "1st downs by penalty",
+          "value": "18"
+        },
+        {
+          "label": "Third Down Conversions",
+          "value": "58"
+        },
+        {
+          "label": "Third Down Attempts",
+          "value": "145"
+        },
+        {
+          "label": "3rd down %",
+          "value": "40.00"
+        },
+        {
+          "label": "Fourth Down Conversions",
+          "value": "8"
+        },
+        {
+          "label": "First Downs Attempts",
+          "value": "16"
+        },
+        {
+          "label": "4th down %",
+          "value": "50.00"
+        },
+        {
+          "label": "Total Penalties",
+          "value": "65"
+        },
+        {
+          "label": "Total Penalty Yards",
+          "value": "581"
+        },
+        {
+          "label": "Possession Time Seconds",
+          "value": "19300"
+        },
+        {
+          "label": "Red Zone Field Goal Percentage",
+          "value": "0.00"
+        },
+        {
+          "label": "Red Zone Scoring Percentage",
+          "value": "0.00"
+        },
+        {
+          "label": "Red Zone Efficiency Percentage",
+          "value": "0.00"
+        },
+        {
+          "label": "Red Zone Touchdown Percentage",
+          "value": "0.00"
+        },
+        {
+          "label": "Total Takeaways",
+          "value": "14"
+        },
+        {
+          "label": "Total Giveaways",
           "value": "20"
         },
         {
-          "label": "sacks",
-          "value": "26"
+          "label": "Turnover Ratio",
+          "value": "-6"
+        },
+        {
+          "label": "Fumbles Lost",
+          "value": "0"
+        },
+        {
+          "label": "3rd down efficiency",
+          "value": "58-145"
+        },
+        {
+          "label": "4th down efficiency",
+          "value": "8-16"
         }
       ],
       "leaders": [],
@@ -3006,7 +3310,7 @@
     "pistons": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  ESPN leaders: ok.  Opponent: ok.  Opponent stats: ok",
     "wings": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  NHL leaders: ok.  Opponent: ok.  Opponent stats: ok",
     "lions": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  ESPN leaders: ok.  Opponent: ok.  Opponent stats: ok",
-    "michigan": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  CFBD stats: ok.  CFBD matchup: ok.  Opponent: ok.  Opponent stats: ok",
+    "michigan": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  CFBD stats: failed (The read operation timed out).  CFBD matchup: ok.  Opponent: ok.  Opponent stats: ok",
     "msu": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  CFBD stats: ok.  CFBD matchup: ok.  Opponent: ok.  Opponent stats: ok",
     "tigers": "ESPN team: ok.  ESPN stats: ok.  ESPN games: ok.  MLB leaders: ok.  Opponent: ok.  Opponent stats: ok"
   },
